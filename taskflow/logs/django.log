@@ -1,0 +1,1794 @@
+INFO 2025-07-01 12:39:54,131 autoreload 9896 13596 Watching for file changes with StatReloader
+INFO 2025-07-01 12:40:27,202 autoreload 9896 13596 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\models.py changed, reloading.
+INFO 2025-07-01 12:40:28,165 autoreload 8712 15188 Watching for file changes with StatReloader
+INFO 2025-07-01 12:40:47,164 autoreload 8712 15188 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\models.py changed, reloading.
+INFO 2025-07-01 12:40:48,226 autoreload 2616 14816 Watching for file changes with StatReloader
+INFO 2025-07-01 12:41:20,682 autoreload 2616 14816 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\models.py changed, reloading.
+INFO 2025-07-01 12:41:22,003 autoreload 10204 11136 Watching for file changes with StatReloader
+INFO 2025-07-01 12:44:08,255 autoreload 12156 15032 Watching for file changes with StatReloader
+INFO 2025-07-01 12:44:29,492 basehttp 12156 10664 "GET / HTTP/1.1" 200 10664
+WARNING 2025-07-01 12:44:40,202 log 12156 11296 Not Found: /favicon.ico
+WARNING 2025-07-01 12:44:40,202 basehttp 12156 11296 "GET /favicon.ico HTTP/1.1" 404 2112
+INFO 2025-07-01 13:46:30,871 autoreload 5292 14224 Watching for file changes with StatReloader
+INFO 2025-07-01 13:52:09,131 autoreload 5292 14224 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\urls.py changed, reloading.
+INFO 2025-07-01 13:52:10,247 autoreload 3820 7816 Watching for file changes with StatReloader
+INFO 2025-07-01 13:52:11,935 autoreload 3820 7816 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\urls.py changed, reloading.
+INFO 2025-07-01 13:52:13,075 autoreload 16992 16820 Watching for file changes with StatReloader
+INFO 2025-07-01 13:52:36,655 autoreload 11392 12960 Watching for file changes with StatReloader
+INFO 2025-07-01 13:54:07,199 autoreload 15552 9748 Watching for file changes with StatReloader
+WARNING 2025-07-01 13:54:44,972 log 15552 2544 Not Found: /
+WARNING 2025-07-01 13:54:44,972 basehttp 15552 2544 "GET / HTTP/1.1" 404 2518
+WARNING 2025-07-01 13:54:45,307 log 15552 2544 Not Found: /favicon.ico
+WARNING 2025-07-01 13:54:45,311 basehttp 15552 2544 "GET /favicon.ico HTTP/1.1" 404 2569
+INFO 2025-07-01 13:55:13,629 basehttp 15552 2544 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-01 13:55:16,276 basehttp 15552 2544 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4185
+INFO 2025-07-01 13:55:17,574 basehttp 15552 15464 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2025-07-01 13:55:17,580 basehttp 15552 14736 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2025-07-01 13:55:17,580 basehttp 15552 5460 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2025-07-01 13:55:17,580 basehttp 15552 10584 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2025-07-01 13:55:17,602 basehttp 15552 2544 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2025-07-01 13:55:17,680 basehttp 15552 2888 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-07-01 13:55:17,682 basehttp 15552 15464 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-07-01 13:55:33,292 basehttp 15552 15464 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-01 13:55:34,224 basehttp 15552 15464 "GET /admin/ HTTP/1.1" 200 5156
+INFO 2025-07-01 13:55:34,651 basehttp 15552 15464 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-07-01 13:55:35,260 basehttp 15552 15464 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-07-01 13:55:35,268 basehttp 15552 2888 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-07-01 13:55:45,174 basehttp 15552 2888 "GET /admin/auth/group/ HTTP/1.1" 200 6977
+INFO 2025-07-01 13:55:45,255 basehttp 15552 10584 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-07-01 13:55:45,375 basehttp 15552 15464 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2025-07-01 13:55:45,928 basehttp 15552 15464 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-07-01 13:55:45,972 basehttp 15552 14736 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2025-07-01 13:55:46,042 basehttp 15552 2544 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-01 13:55:46,077 basehttp 15552 15464 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-07-01 13:55:46,142 basehttp 15552 10584 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2025-07-01 13:55:46,170 basehttp 15552 2544 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-07-01 13:55:46,239 basehttp 15552 5460 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2025-07-01 13:55:46,572 basehttp 15552 14736 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2025-07-01 13:55:46,639 basehttp 15552 2888 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2025-07-01 13:55:46,658 basehttp 15552 14736 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-07-01 13:55:46,700 basehttp 15552 14736 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+WARNING 2025-07-01 13:55:57,939 log 15552 14736 Not Found: /
+WARNING 2025-07-01 13:55:57,939 basehttp 15552 14736 "GET / HTTP/1.1" 404 2518
+INFO 2025-07-01 13:56:02,921 basehttp 15552 14736 "GET /admin/auth/group/ HTTP/1.1" 200 6977
+INFO 2025-07-01 13:56:06,336 basehttp 15552 14736 "GET /admin/auth/ HTTP/1.1" 200 5176
+INFO 2025-07-01 14:00:32,382 autoreload 15552 9748 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\admin.py changed, reloading.
+INFO 2025-07-01 14:00:34,337 autoreload 16972 16892 Watching for file changes with StatReloader
+INFO 2025-07-01 14:00:39,851 basehttp 16972 14788 "GET /admin/auth/ HTTP/1.1" 200 5176
+INFO 2025-07-01 14:02:13,904 autoreload 16972 16892 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\admin.py changed, reloading.
+INFO 2025-07-01 14:02:15,036 autoreload 15088 1968 Watching for file changes with StatReloader
+INFO 2025-07-01 14:03:12,847 autoreload 15088 1968 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\admin.py changed, reloading.
+INFO 2025-07-01 14:03:13,791 autoreload 4168 17168 Watching for file changes with StatReloader
+INFO 2025-07-01 14:03:21,696 basehttp 4168 15440 "POST /admin/logout/ HTTP/1.1" 302 0
+WARNING 2025-07-01 14:03:21,743 log 4168 15440 Not Found: /
+WARNING 2025-07-01 14:03:21,744 basehttp 4168 15440 "GET / HTTP/1.1" 404 2518
+WARNING 2025-07-01 14:03:31,216 log 4168 13772 Not Found: /
+WARNING 2025-07-01 14:03:31,216 basehttp 4168 13772 "GET / HTTP/1.1" 404 2518
+WARNING 2025-07-01 14:03:32,283 log 4168 13772 Not Found: /favicon.ico
+WARNING 2025-07-01 14:03:32,283 basehttp 4168 13772 "GET /favicon.ico HTTP/1.1" 404 2569
+INFO 2025-07-01 14:03:40,939 basehttp 4168 13772 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-01 14:03:41,024 basehttp 4168 13772 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4185
+INFO 2025-07-01 14:03:59,607 basehttp 4168 16176 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-01 14:03:59,721 basehttp 4168 16176 "GET /admin/ HTTP/1.1" 200 7106
+INFO 2025-07-01 14:06:24,452 basehttp 4168 16176 "GET /admin/accounts/user/ HTTP/1.1" 200 9348
+INFO 2025-07-01 14:06:24,657 basehttp 4168 16176 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-01 14:06:40,669 basehttp 4168 16176 "GET /admin/accounts/user/add/ HTTP/1.1" 200 22373
+INFO 2025-07-01 14:06:40,853 basehttp 4168 8108 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-01 14:06:41,056 basehttp 4168 12880 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-07-01 14:06:41,091 basehttp 4168 16176 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2025-07-01 14:06:41,146 basehttp 4168 12264 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2025-07-01 14:06:41,146 basehttp 4168 11856 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-07-01 14:06:41,251 basehttp 4168 16176 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2025-07-01 14:06:41,284 basehttp 4168 11856 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-07-01 14:06:41,471 basehttp 4168 11856 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-07-01 14:06:41,713 basehttp 4168 16176 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-07-01 14:07:25,647 basehttp 4168 16176 "GET /admin/projects/project/ HTTP/1.1" 200 8228
+INFO 2025-07-01 14:07:25,763 basehttp 4168 16176 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-01 14:07:28,700 basehttp 4168 16176 "GET /admin/projects/project/add/ HTTP/1.1" 200 14771
+INFO 2025-07-01 14:07:28,757 basehttp 4168 11856 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-07-01 14:07:28,817 basehttp 4168 16176 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-01 14:07:48,292 basehttp 4168 16176 "GET /admin/tasks/task/ HTTP/1.1" 200 8195
+INFO 2025-07-01 14:07:48,387 basehttp 4168 16176 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-01 14:07:51,336 basehttp 4168 16176 "GET /admin/tasks/task/add/ HTTP/1.1" 200 18121
+INFO 2025-07-01 14:07:51,453 basehttp 4168 16176 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-01 14:08:10,899 basehttp 4168 16176 "GET /admin/ HTTP/1.1" 200 7106
+INFO 2025-07-01 14:10:14,827 basehttp 4168 16176 "POST /admin/logout/ HTTP/1.1" 302 0
+WARNING 2025-07-01 14:10:14,876 log 4168 16176 Not Found: /
+WARNING 2025-07-01 14:10:14,876 basehttp 4168 16176 "GET / HTTP/1.1" 404 2518
+INFO 2025-07-03 16:35:01,315 autoreload 7552 2792 Watching for file changes with StatReloader
+INFO 2025-07-03 18:00:35,203 autoreload 6992 17328 Watching for file changes with StatReloader
+WARNING 2025-07-03 18:02:51,584 log 6992 3408 Not Found: /
+WARNING 2025-07-03 18:02:51,600 basehttp 6992 3408 "GET / HTTP/1.1" 404 2510
+WARNING 2025-07-03 18:03:10,848 log 6992 4912 Not Found: /favicon.ico
+WARNING 2025-07-03 18:03:10,848 basehttp 6992 4912 "GET /favicon.ico HTTP/1.1" 404 2561
+WARNING 2025-07-03 18:05:02,366 log 6992 4912 Forbidden: /api/projects/
+WARNING 2025-07-03 18:05:02,366 basehttp 6992 4912 "GET /api/projects/ HTTP/1.1" 403 5136
+INFO 2025-07-03 18:05:03,251 basehttp 6992 3636 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2025-07-03 18:05:03,256 basehttp 6992 13588 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2025-07-03 18:05:03,506 basehttp 6992 17872 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2025-07-03 18:05:03,533 basehttp 6992 17124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2025-07-03 18:05:05,234 basehttp 6992 3636 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2025-07-03 18:05:05,234 basehttp 6992 17124 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2025-07-03 18:05:05,234 basehttp 6992 11300 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2025-07-03 18:05:05,637 basehttp 6992 13588 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2025-07-03 18:05:05,726 basehttp 6992 17124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2025-07-03 18:05:06,400 basehttp 6992 17872 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2025-07-03 18:05:06,737 basehttp 6992 4912 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+WARNING 2025-07-03 18:06:33,409 log 6992 7532 Forbidden: /api/projects/
+WARNING 2025-07-03 18:06:33,414 basehttp 6992 7532 "GET /api/projects/?format=api HTTP/1.1" 403 5180
+INFO 2025-07-05 21:02:17,147 autoreload 11624 4856 Watching for file changes with StatReloader
+WARNING 2025-07-05 21:04:22,913 log 11624 3624 Not Found: /
+WARNING 2025-07-05 21:04:22,913 basehttp 11624 3624 "GET / HTTP/1.1" 404 2510
+WARNING 2025-07-05 21:04:38,116 log 11624 11744 Not Found: /favicon.ico
+WARNING 2025-07-05 21:04:38,116 basehttp 11624 11744 "GET /favicon.ico HTTP/1.1" 404 2561
+INFO 2025-07-05 21:04:52,179 basehttp 11624 11744 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-05 21:05:01,221 basehttp 11624 11744 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4185
+INFO 2025-07-05 21:05:01,321 basehttp 11624 7200 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:01,467 basehttp 11624 11744 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:01,468 basehttp 11624 8088 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:01,468 basehttp 11624 7200 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:01,541 basehttp 11624 5024 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:01,541 basehttp 11624 5572 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:01,626 basehttp 11624 5976 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:43,010 basehttp 11624 5976 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-05 21:05:43,371 basehttp 11624 5976 "GET /admin/ HTTP/1.1" 200 7106
+INFO 2025-07-05 21:05:43,451 basehttp 11624 5976 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:43,522 basehttp 11624 5976 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-05 21:05:43,542 basehttp 11624 5572 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+WARNING 2025-07-05 21:06:07,669 log 11624 5572 Not Found: /projects
+WARNING 2025-07-05 21:06:07,669 basehttp 11624 5572 "GET /projects HTTP/1.1" 404 2552
+INFO 2025-07-05 21:06:28,792 basehttp 11624 5268 "GET /api/projects HTTP/1.1" 301 0
+INFO 2025-07-05 21:06:30,528 basehttp 11624 14920 "GET /api/projects/ HTTP/1.1" 200 14161
+INFO 2025-07-05 21:06:30,627 basehttp 11624 4948 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,627 basehttp 11624 9048 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,634 basehttp 11624 3136 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,634 basehttp 11624 3136 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,713 basehttp 11624 14920 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,713 basehttp 11624 14344 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,727 basehttp 11624 4948 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,727 basehttp 11624 6228 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,729 basehttp 11624 9048 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,808 basehttp 11624 3136 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:30,864 basehttp 11624 3136 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2025-07-05 21:06:32,765 basehttp 11624 3136 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+INFO 2025-07-05 21:07:01,356 basehttp 11624 3136 "OPTIONS /api/projects/ HTTP/1.1" 200 14597
+INFO 2025-07-05 22:55:04,191 autoreload 6096 9200 Watching for file changes with StatReloader
+INFO 2025-07-05 22:55:56,968 basehttp 6096 2060 "GET / HTTP/1.1" 200 5293
+INFO 2025-07-05 22:57:02,632 basehttp 6096 2060 - Broken pipe from ('127.0.0.1', 51864)
+INFO 2025-07-05 22:57:02,635 basehttp 6096 12704 - Broken pipe from ('127.0.0.1', 51865)
+INFO 2025-07-05 22:58:42,776 autoreload 13104 12488 Watching for file changes with StatReloader
+INFO 2025-07-05 23:11:25,893 basehttp 13104 3236 "GET / HTTP/1.1" 200 5293
+WARNING 2025-07-05 23:12:03,974 log 13104 3236 Not Found: /favicon.ico
+WARNING 2025-07-05 23:12:03,974 basehttp 13104 3236 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-05 23:14:33,101 basehttp 13104 14300 "GET /api/tasks HTTP/1.1" 301 0
+INFO 2025-07-05 23:15:00,202 basehttp 13104 9752 "GET /api/tasks/ HTTP/1.1" 200 5543
+WARNING 2025-07-05 23:16:05,200 log 13104 9752 Not Found: /api/users
+WARNING 2025-07-05 23:16:05,201 basehttp 13104 9752 "GET /api/users HTTP/1.1" 404 4821
+INFO 2025-07-05 23:17:07,432 basehttp 13104 9752 "GET /api/tasks/ HTTP/1.1" 200 5543
+INFO 2025-07-05 23:18:03,486 basehttp 13104 9752 "GET /api/auth HTTP/1.1" 301 0
+INFO 2025-07-05 23:18:22,672 basehttp 13104 7556 "GET /admin/ HTTP/1.1" 200 7106
+INFO 2025-07-05 23:19:13,082 basehttp 13104 7556 "GET /api/auth/ HTTP/1.1" 200 5555
+INFO 2025-07-05 23:19:19,885 basehttp 13104 7556 "GET /admin/accounts/user/ HTTP/1.1" 200 9348
+INFO 2025-07-05 23:19:19,904 basehttp 13104 7556 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:19,906 basehttp 13104 13072 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:19,906 basehttp 13104 12304 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:19,962 basehttp 13104 11924 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:19,962 basehttp 13104 7556 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:19,962 basehttp 13104 12056 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:19,964 basehttp 13104 12304 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:19,966 basehttp 13104 11924 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:20,132 basehttp 13104 13072 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:20,443 basehttp 13104 9908 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-05 23:19:20,510 basehttp 13104 9908 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:20,717 basehttp 13104 9908 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,221 basehttp 13104 9908 "GET /admin/accounts/user/1/change/ HTTP/1.1" 200 22766
+INFO 2025-07-05 23:19:26,241 basehttp 13104 12304 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,241 basehttp 13104 9908 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,243 basehttp 13104 12056 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,329 basehttp 13104 11924 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,415 basehttp 13104 11924 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,447 basehttp 13104 11924 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,447 basehttp 13104 13072 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-05 23:19:26,552 basehttp 13104 13072 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:26,631 basehttp 13104 11924 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2025-07-05 23:19:39,631 basehttp 13104 11924 "GET /admin/accounts/user/add/ HTTP/1.1" 200 22373
+INFO 2025-07-05 23:19:39,758 basehttp 13104 11924 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-05 23:20:55,452 basehttp 13104 11924 "POST /admin/accounts/user/add/ HTTP/1.1" 302 0
+INFO 2025-07-05 23:20:55,723 basehttp 13104 11924 "GET /admin/accounts/user/ HTTP/1.1" 200 9757
+INFO 2025-07-05 23:20:55,923 basehttp 13104 11924 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-05 23:20:56,037 basehttp 13104 11924 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-07-05 23:21:05,621 basehttp 13104 11924 "GET /api/auth/ HTTP/1.1" 200 5555
+INFO 2025-07-05 23:21:21,744 basehttp 13104 11924 "GET /api/auth/users HTTP/1.1" 301 0
+INFO 2025-07-05 23:21:21,999 basehttp 13104 13072 "GET /api/auth/users/ HTTP/1.1" 200 24614
+INFO 2025-07-05 23:22:49,266 basehttp 13104 13072 "OPTIONS /api/auth/users/ HTTP/1.1" 200 23817
+INFO 2025-07-05 23:22:50,733 basehttp 13104 13072 "OPTIONS /api/auth/users/ HTTP/1.1" 200 23817
+INFO 2025-07-05 23:22:51,916 basehttp 13104 13072 "OPTIONS /api/auth/users/ HTTP/1.1" 200 23817
+INFO 2025-07-05 23:24:02,628 basehttp 13104 13072 "GET /api/tasks/tasks HTTP/1.1" 301 0
+INFO 2025-07-05 23:24:02,794 basehttp 13104 12056 "GET /api/tasks/tasks/ HTTP/1.1" 200 16777
+INFO 2025-07-05 23:24:18,076 basehttp 13104 12056 "GET /admin/ HTTP/1.1" 200 7424
+INFO 2025-07-05 23:24:21,595 basehttp 13104 12056 "POST /admin/logout/ HTTP/1.1" 302 0
+WARNING 2025-07-05 23:24:21,605 log 13104 12056 Forbidden: /
+WARNING 2025-07-05 23:24:21,606 basehttp 13104 12056 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-08 13:09:26,705 autoreload 3760 3396 Watching for file changes with StatReloader
+INFO 2025-07-08 13:12:44,514 autoreload 3760 3396 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py changed, reloading.
+INFO 2025-07-08 13:12:45,798 autoreload 14780 13388 Watching for file changes with StatReloader
+WARNING 2025-07-08 13:21:21,797 log 14780 9308 Forbidden: /
+WARNING 2025-07-08 13:21:21,812 basehttp 14780 9308 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-08 13:21:22,649 basehttp 14780 16944 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,663 basehttp 14780 9308 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,663 basehttp 14780 16892 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,663 basehttp 14780 16948 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,663 basehttp 14780 16952 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,679 basehttp 14780 16892 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,679 basehttp 14780 16948 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,679 basehttp 14780 16944 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,679 basehttp 14780 9308 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:22,679 basehttp 14780 16956 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-08 13:21:28,691 basehttp 14780 9308 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-07-08 13:21:31,081 log 14780 9308 Not Found: /favicon.ico
+WARNING 2025-07-08 13:21:31,081 basehttp 14780 9308 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-08 13:22:53,469 basehttp 14780 9308 "GET /api/auth/register HTTP/1.1" 301 0
+WARNING 2025-07-08 13:23:00,766 log 14780 16956 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 13:23:00,768 basehttp 14780 16956 "GET /api/auth/register/ HTTP/1.1" 405 5810
+ERROR 2025-07-08 13:23:50,390 log 14780 16544 Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py", line 18, in register
+    if serializer.is_valid():
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 479, in to_internal_value
+    for field in fields:
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 362, in _writable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 1052, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 1148, in get_field_names
+    assert field_name in fields, (
+           ^^^^^^^^^^^^^^^^^^^^
+AssertionError: The field 'password' was declared on serializer UserRegistrationSerializer, but has not been included in the 'fields' option.
+ERROR 2025-07-08 13:23:50,403 basehttp 14780 16544 "POST /api/auth/register/ HTTP/1.1" 500 153944
+INFO 2025-07-08 13:26:02,378 autoreload 14780 13388 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\serializers.py changed, reloading.
+INFO 2025-07-08 13:26:03,645 autoreload 15136 16692 Watching for file changes with StatReloader
+WARNING 2025-07-08 13:26:25,230 log 15136 16536 Forbidden: /
+WARNING 2025-07-08 13:26:25,231 basehttp 15136 16536 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-08 13:26:44,819 log 15136 16536 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 13:26:44,819 basehttp 15136 16536 "GET /api/auth/register/ HTTP/1.1" 405 5810
+ERROR 2025-07-08 13:27:00,414 log 15136 16536 Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py", line 19, in register
+    user = serializer.save()
+           ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\serializers.py", line 14, in create
+    username = validated_data['user_name'],
+               ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'user_name'
+ERROR 2025-07-08 13:27:00,414 basehttp 15136 16536 "POST /api/auth/register/ HTTP/1.1" 500 118291
+INFO 2025-07-08 13:28:10,068 autoreload 15136 16692 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\serializers.py changed, reloading.
+INFO 2025-07-08 13:28:11,377 autoreload 16624 9152 Watching for file changes with StatReloader
+WARNING 2025-07-08 13:28:44,093 log 16624 17220 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 13:28:44,093 basehttp 16624 17220 "GET /api/auth/register/ HTTP/1.1" 405 5810
+ERROR 2025-07-08 13:28:54,489 log 16624 17220 Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py", line 19, in register
+    user = serializer.save()
+           ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\serializers.py", line 18, in create
+    first_name = validated_data['first_name'],
+                 ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+KeyError: 'first_name'
+ERROR 2025-07-08 13:28:54,491 basehttp 16624 17220 "POST /api/auth/register/ HTTP/1.1" 500 118221
+WARNING 2025-07-08 13:29:29,574 log 16624 17220 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 13:29:29,575 basehttp 16624 17220 "GET /api/auth/register/ HTTP/1.1" 405 5810
+WARNING 2025-07-08 13:30:38,132 log 16624 17220 Bad Request: /api/auth/register/
+WARNING 2025-07-08 13:30:38,133 basehttp 16624 17220 "POST /api/auth/register/ HTTP/1.1" 400 5843
+WARNING 2025-07-08 13:31:42,697 log 16624 17220 Bad Request: /api/auth/register/
+WARNING 2025-07-08 13:31:42,698 basehttp 16624 17220 "POST /api/auth/register/ HTTP/1.1" 400 5843
+ERROR 2025-07-08 13:33:36,253 log 16624 17220 Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py", line 19, in register
+    user = serializer.save()
+           ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\serializers.py", line 18, in create
+    first_name = validated_data['first_name'],
+                 ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+KeyError: 'first_name'
+ERROR 2025-07-08 13:33:36,253 basehttp 16624 17220 "POST /api/auth/register/ HTTP/1.1" 500 118221
+WARNING 2025-07-08 13:35:05,981 log 16624 17220 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 13:35:05,982 basehttp 16624 17220 "GET /api/auth/register/ HTTP/1.1" 405 5810
+WARNING 2025-07-08 13:35:47,820 log 16624 17220 Bad Request: /api/auth/register/
+WARNING 2025-07-08 13:35:47,820 basehttp 16624 17220 "POST /api/auth/register/ HTTP/1.1" 400 5843
+ERROR 2025-07-08 13:36:53,630 log 16624 17220 Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py", line 20, in register
+    token, created = Token.objects.get_or_create(user=user)
+                     ^^^^^^^^^^^^^
+AttributeError: type object 'Token' has no attribute 'objects'
+ERROR 2025-07-08 13:36:53,630 basehttp 16624 17220 "POST /api/auth/register/ HTTP/1.1" 500 108367
+INFO 2025-07-08 13:42:31,068 autoreload 16624 9152 D:\Django Projects\Taskflow - Task managment system\taskflow\taskflow\settings.py changed, reloading.
+INFO 2025-07-08 13:42:32,780 autoreload 11784 16688 Watching for file changes with StatReloader
+INFO 2025-07-08 13:42:58,777 autoreload 11784 16688 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py changed, reloading.
+INFO 2025-07-08 13:43:00,067 autoreload 9472 16952 Watching for file changes with StatReloader
+INFO 2025-07-08 13:45:28,418 autoreload 17128 15884 Watching for file changes with StatReloader
+WARNING 2025-07-08 13:45:36,854 log 17128 17104 Forbidden: /
+WARNING 2025-07-08 13:45:36,862 basehttp 17128 17104 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-08 13:45:48,697 log 17128 17104 Not Found: /favicon.ico
+WARNING 2025-07-08 13:45:48,697 basehttp 17128 17104 "GET /favicon.ico HTTP/1.1" 404 3722
+WARNING 2025-07-08 13:46:11,135 log 17128 17104 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 13:46:11,135 basehttp 17128 17104 "GET /api/auth/register/ HTTP/1.1" 405 5810
+ERROR 2025-07-08 13:46:29,342 log 17128 11564 Internal Server Error: /api/auth/register/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py", line 25, in register
+    return Response(serializer.errors, status = status.HTTP_400_BAD_REQUSET)
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_400_BAD_REQUSET'
+ERROR 2025-07-08 13:46:29,357 basehttp 17128 11564 "POST /api/auth/register/ HTTP/1.1" 500 108534
+INFO 2025-07-08 13:47:01,558 autoreload 17128 15884 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py changed, reloading.
+INFO 2025-07-08 13:47:04,851 autoreload 15164 8188 Watching for file changes with StatReloader
+WARNING 2025-07-08 13:47:05,817 log 15164 12604 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 13:47:05,818 basehttp 15164 12604 "GET /api/auth/register/ HTTP/1.1" 405 5810
+WARNING 2025-07-08 13:47:18,562 log 15164 12604 Bad Request: /api/auth/register/
+WARNING 2025-07-08 13:47:18,562 basehttp 15164 12604 "POST /api/auth/register/ HTTP/1.1" 400 5826
+WARNING 2025-07-08 13:48:13,703 log 15164 12604 Forbidden: /api/auth/profile/
+WARNING 2025-07-08 13:48:13,703 basehttp 15164 12604 "GET /api/auth/profile/ HTTP/1.1" 403 5159
+WARNING 2025-07-08 14:48:17,056 log 15164 15828 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-08 14:48:17,057 basehttp 15164 15828 "GET /api/auth/login/ HTTP/1.1" 405 5808
+ERROR 2025-07-08 14:49:24,937 log 15164 15828 Internal Server Error: /api/auth/login/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py", line 32, in login_view
+    user = serializer.validate_data
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'UserLoginSerializer' object has no attribute 'validate_data'
+ERROR 2025-07-08 14:49:24,952 basehttp 15164 15828 "POST /api/auth/login/ HTTP/1.1" 500 107302
+INFO 2025-07-08 14:50:19,835 autoreload 15164 8188 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\serializers.py changed, reloading.
+INFO 2025-07-08 14:50:21,194 autoreload 13456 8792 Watching for file changes with StatReloader
+INFO 2025-07-08 14:52:28,068 autoreload 13456 8792 D:\Django Projects\Taskflow - Task managment system\taskflow\accounts\views.py changed, reloading.
+INFO 2025-07-08 14:52:29,108 autoreload 10636 8188 Watching for file changes with StatReloader
+WARNING 2025-07-08 14:53:35,566 log 10636 2580 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-08 14:53:35,566 basehttp 10636 2580 "GET /api/auth/login/ HTTP/1.1" 405 5808
+INFO 2025-07-08 14:53:53,681 basehttp 10636 2580 "POST /api/auth/login/ HTTP/1.1" 200 6227
+WARNING 2025-07-08 14:55:13,030 log 10636 2580 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-08 14:55:13,030 basehttp 10636 2580 "GET /api/auth/logout/ HTTP/1.1" 405 5854
+INFO 2025-07-08 14:55:37,140 basehttp 10636 2580 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-08 14:55:38,305 basehttp 10636 2580 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3708
+INFO 2025-07-08 14:55:38,456 basehttp 10636 16572 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:55:38,625 basehttp 10636 17096 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:55:38,626 basehttp 10636 16572 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:55:38,626 basehttp 10636 2580 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:55:38,756 basehttp 10636 17628 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:55:38,756 basehttp 10636 7324 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:55:38,853 basehttp 10636 17220 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:00,133 basehttp 10636 17220 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-08 14:56:00,887 basehttp 10636 17220 "GET /admin/ HTTP/1.1" 200 8110
+INFO 2025-07-08 14:56:00,925 basehttp 10636 17220 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:01,042 basehttp 10636 17220 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:01,066 basehttp 10636 7324 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,533 basehttp 10636 7324 "GET /admin/accounts/user/ HTTP/1.1" 200 10315
+INFO 2025-07-08 14:56:06,577 basehttp 10636 7324 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,580 basehttp 10636 2580 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,586 basehttp 10636 7324 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,586 basehttp 10636 2580 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,648 basehttp 10636 17096 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,669 basehttp 10636 17628 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,680 basehttp 10636 7324 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,736 basehttp 10636 16572 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:06,793 basehttp 10636 16572 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:07,068 basehttp 10636 17220 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-08 14:56:07,113 basehttp 10636 17220 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:07,379 basehttp 10636 17220 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:13,767 basehttp 10636 17220 "GET /admin/accounts/user/2/change/ HTTP/1.1" 200 23759
+INFO 2025-07-08 14:56:13,841 basehttp 10636 16572 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:13,842 basehttp 10636 17628 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:13,900 basehttp 10636 7324 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:13,958 basehttp 10636 7324 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:13,971 basehttp 10636 17628 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:13,997 basehttp 10636 17628 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:14,041 basehttp 10636 17220 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-08 14:56:14,257 basehttp 10636 17220 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:14,321 basehttp 10636 17628 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2025-07-08 14:56:18,824 basehttp 10636 17628 "GET /admin/accounts/user/ HTTP/1.1" 200 10315
+INFO 2025-07-08 14:56:21,057 basehttp 10636 17628 "GET /admin/accounts/user/3/change/ HTTP/1.1" 200 23872
+INFO 2025-07-08 14:56:21,153 basehttp 10636 17628 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-08 14:57:00,662 basehttp 10636 17628 "GET /admin/accounts/user/ HTTP/1.1" 200 10315
+INFO 2025-07-08 14:57:02,911 basehttp 10636 17628 "GET /admin/accounts/user/2/change/ HTTP/1.1" 200 23759
+INFO 2025-07-08 14:57:02,996 basehttp 10636 17628 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-08 14:57:46,203 basehttp 10636 17628 "GET /api/auth/login HTTP/1.1" 301 0
+WARNING 2025-07-08 14:57:46,353 log 10636 17220 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-08 14:57:46,353 basehttp 10636 17220 "GET /api/auth/login/ HTTP/1.1" 405 5842
+WARNING 2025-07-08 14:59:18,766 log 10636 17220 Bad Request: /api/auth/login/
+WARNING 2025-07-08 14:59:18,766 basehttp 10636 17220 "POST /api/auth/login/ HTTP/1.1" 400 5845
+WARNING 2025-07-08 15:00:15,082 log 10636 17220 Bad Request: /api/auth/login/
+WARNING 2025-07-08 15:00:15,082 basehttp 10636 17220 "POST /api/auth/login/ HTTP/1.1" 400 5845
+INFO 2025-07-08 15:00:46,639 basehttp 10636 17220 "POST /api/auth/login/ HTTP/1.1" 200 6211
+WARNING 2025-07-08 15:01:55,098 log 10636 17220 Bad Request: /api/auth/login/
+WARNING 2025-07-08 15:01:55,098 basehttp 10636 17220 "POST /api/auth/login/ HTTP/1.1" 400 5845
+WARNING 2025-07-08 15:03:40,087 log 10636 17220 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-08 15:03:40,090 basehttp 10636 17220 "GET /api/auth/register/ HTTP/1.1" 405 5844
+WARNING 2025-07-08 15:04:35,808 log 10636 17220 Bad Request: /api/auth/register/
+WARNING 2025-07-08 15:04:35,808 basehttp 10636 17220 "POST /api/auth/register/ HTTP/1.1" 400 5860
+INFO 2025-07-08 15:06:18,213 basehttp 10636 17220 "GET /admin/accounts/user/2/delete/ HTTP/1.1" 200 8710
+INFO 2025-07-08 15:06:19,504 basehttp 10636 17220 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2025-07-08 15:06:21,391 basehttp 10636 17220 "POST /admin/accounts/user/2/delete/ HTTP/1.1" 302 0
+INFO 2025-07-08 15:06:21,593 basehttp 10636 17220 "GET /admin/accounts/user/ HTTP/1.1" 200 10262
+INFO 2025-07-08 15:06:21,723 basehttp 10636 17220 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-08 15:06:21,817 basehttp 10636 17220 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-07-08 15:06:25,553 basehttp 10636 17220 "POST /admin/logout/ HTTP/1.1" 302 0
+WARNING 2025-07-08 15:06:25,586 log 10636 17220 Forbidden: /
+WARNING 2025-07-08 15:06:25,589 basehttp 10636 17220 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-08 15:16:04,823 autoreload 15448 10664 Watching for file changes with StatReloader
+WARNING 2025-07-08 15:16:14,575 log 15448 3348 Forbidden: /
+WARNING 2025-07-08 15:16:14,582 basehttp 15448 3348 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-08 15:16:21,693 log 15448 3348 Not Found: /favicon.ico
+WARNING 2025-07-08 15:16:21,693 basehttp 15448 3348 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-08 15:17:24,455 autoreload 9000 16656 Watching for file changes with StatReloader
+WARNING 2025-07-08 15:18:16,095 log 9000 13052 Forbidden: /
+WARNING 2025-07-08 15:18:16,095 basehttp 9000 13052 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-08 15:18:16,366 basehttp 9000 16836 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2025-07-08 15:18:16,414 basehttp 9000 3308 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2025-07-08 15:18:16,521 basehttp 9000 13052 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2025-07-08 15:18:16,527 basehttp 9000 16836 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2025-07-08 15:18:22,438 basehttp 9000 16836 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2025-07-08 15:18:22,613 basehttp 9000 13052 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2025-07-08 15:18:23,011 basehttp 9000 16836 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2025-07-08 15:18:23,144 basehttp 9000 4312 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2025-07-08 15:18:26,051 basehttp 9000 3308 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2025-07-08 15:18:27,193 basehttp 9000 5684 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2025-07-08 15:18:32,088 basehttp 9000 5684 "GET /api/projects HTTP/1.1" 301 0
+WARNING 2025-07-08 15:18:32,095 log 9000 3308 Forbidden: /api/projects/
+WARNING 2025-07-08 15:18:32,095 basehttp 9000 3308 "GET /api/projects/ HTTP/1.1" 403 5229
+INFO 2025-07-08 15:18:32,124 basehttp 9000 4312 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2025-07-08 15:18:35,462 basehttp 9000 11196 - Broken pipe from ('127.0.0.1', 54113)
+INFO 2025-07-08 15:18:35,462 basehttp 9000 3308 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+WARNING 2025-07-08 15:18:36,604 log 9000 3308 Not Found: /favicon.ico
+WARNING 2025-07-08 15:18:36,620 basehttp 9000 3308 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-08 15:19:04,541 basehttp 9000 3308 "GET /admin HTTP/1.1" 301 0
+INFO 2025-07-08 15:19:05,194 basehttp 9000 4312 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-08 15:19:08,552 basehttp 9000 4312 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4185
+INFO 2025-07-08 15:19:08,706 basehttp 9000 16460 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2025-07-08 15:19:08,882 basehttp 9000 4700 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2025-07-08 15:19:09,123 basehttp 9000 15236 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2025-07-08 15:19:09,129 basehttp 9000 16568 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2025-07-08 15:19:09,190 basehttp 9000 4312 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2025-07-08 15:19:09,435 basehttp 9000 17432 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-07-08 15:19:09,614 basehttp 9000 16460 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-07-08 15:19:29,459 basehttp 9000 14928 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-08 15:19:29,931 basehttp 9000 14928 "GET /admin/ HTTP/1.1" 200 8353
+INFO 2025-07-08 15:19:30,037 basehttp 9000 14928 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-07-08 15:19:30,060 basehttp 9000 6340 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-07-08 15:19:30,060 basehttp 9000 14928 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-07-08 15:19:30,101 basehttp 9000 3196 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2025-07-08 15:19:34,751 basehttp 9000 3196 "GET /api/projects/ HTTP/1.1" 200 14406
+INFO 2025-07-08 15:19:35,436 basehttp 9000 3196 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+WARNING 2025-07-08 15:20:49,374 log 9000 3196 Bad Request: /api/projects/
+WARNING 2025-07-08 15:20:49,374 basehttp 9000 3196 "POST /api/projects/ HTTP/1.1" 400 11745
+INFO 2025-07-09 13:24:10,811 autoreload 2068 12000 Watching for file changes with StatReloader
+INFO 2025-07-09 13:24:39,104 basehttp 2068 8176 "GET / HTTP/1.1" 200 5293
+INFO 2025-07-09 13:24:39,733 basehttp 2068 12648 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,733 basehttp 2068 10720 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,733 basehttp 2068 2444 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,733 basehttp 2068 8176 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,745 basehttp 2068 2444 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,745 basehttp 2068 12648 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,745 basehttp 2068 10228 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,745 basehttp 2068 15984 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,749 basehttp 2068 10720 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:39,749 basehttp 2068 8176 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:24:40,949 basehttp 2068 8176 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-07-09 13:24:44,726 log 2068 8176 Not Found: /favicon.ico
+WARNING 2025-07-09 13:24:44,734 basehttp 2068 8176 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-09 13:25:04,017 basehttp 2068 15868 "GET /api/projects/ HTTP/1.1" 200 14993
+INFO 2025-07-09 13:25:04,310 basehttp 2068 15868 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+WARNING 2025-07-09 13:26:23,475 log 2068 15868 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-09 13:26:23,475 basehttp 2068 15868 "GET /api/auth/register/ HTTP/1.1" 405 5844
+INFO 2025-07-09 13:26:55,819 basehttp 2068 15868 "GET /admin/ HTTP/1.1" 200 8353
+INFO 2025-07-09 13:26:55,920 basehttp 2068 15868 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:55,920 basehttp 2068 17992 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:55,943 basehttp 2068 8880 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:55,952 basehttp 2068 17352 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:56,074 basehttp 2068 8496 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:56,097 basehttp 2068 15092 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:56,126 basehttp 2068 17352 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:56,227 basehttp 2068 15092 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:56,227 basehttp 2068 17352 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-09 13:26:57,060 basehttp 2068 17352 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+WARNING 2025-07-09 13:27:02,209 log 2068 17352 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-09 13:27:02,219 basehttp 2068 17352 "GET /api/auth/register/ HTTP/1.1" 405 5844
+INFO 2025-07-09 13:27:24,464 basehttp 2068 17352 "GET /admin/accounts/user/ HTTP/1.1" 200 10106
+INFO 2025-07-09 13:27:24,506 basehttp 2068 17352 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,509 basehttp 2068 15092 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,509 basehttp 2068 8880 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,511 basehttp 2068 15868 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,511 basehttp 2068 17992 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,759 basehttp 2068 15092 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,759 basehttp 2068 17992 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,759 basehttp 2068 8496 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:24,788 basehttp 2068 15868 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:25,425 basehttp 2068 15868 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:27:25,578 basehttp 2068 17352 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:27:26,476 basehttp 2068 17352 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:14,959 basehttp 2068 17352 "POST /api/auth/register/ HTTP/1.1" 201 6227
+INFO 2025-07-09 13:28:27,284 basehttp 2068 17352 "GET /admin/accounts/user/ HTTP/1.1" 200 10315
+INFO 2025-07-09 13:28:27,413 basehttp 2068 17352 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:28:30,596 basehttp 2068 17352 "GET /admin/accounts/user/4/change/ HTTP/1.1" 200 23839
+INFO 2025-07-09 13:28:30,637 basehttp 2068 17352 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:30,707 basehttp 2068 17352 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:30,707 basehttp 2068 8496 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:30,857 basehttp 2068 8496 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:30,943 basehttp 2068 8496 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:30,989 basehttp 2068 15868 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:28:31,002 basehttp 2068 8496 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:31,096 basehttp 2068 8496 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:31,097 basehttp 2068 15868 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2025-07-09 13:28:57,359 basehttp 2068 15868 "GET /api/projects/ HTTP/1.1" 200 15147
+INFO 2025-07-09 13:30:50,424 basehttp 2068 15868 "GET /admin/projects/project/ HTTP/1.1" 200 8777
+INFO 2025-07-09 13:30:50,583 basehttp 2068 15868 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:30:55,534 basehttp 2068 15868 "GET /admin/projects/project/add/ HTTP/1.1" 200 15478
+INFO 2025-07-09 13:30:55,612 basehttp 2068 8496 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-07-09 13:30:55,672 basehttp 2068 15868 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:32:29,201 basehttp 2068 15868 "POST /api/projects/ HTTP/1.1" 201 11817
+INFO 2025-07-09 13:33:51,459 basehttp 2068 15868 "POST /api/projects/ HTTP/1.1" 201 11815
+INFO 2025-07-09 13:34:09,398 basehttp 2068 15868 "GET /admin/projects/project/ HTTP/1.1" 200 10144
+INFO 2025-07-09 13:34:19,862 basehttp 2068 15868 "GET /admin/projects/project/2/change/ HTTP/1.1" 200 15787
+INFO 2025-07-09 13:34:20,012 basehttp 2068 15868 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:34:33,282 basehttp 2068 15868 "GET /admin/projects/project/ HTTP/1.1" 200 10144
+INFO 2025-07-09 13:34:35,618 basehttp 2068 15868 "GET /admin/projects/project/1/change/ HTTP/1.1" 200 15787
+INFO 2025-07-09 13:34:35,821 basehttp 2068 15868 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:34:40,051 basehttp 2068 15868 "GET /admin/projects/project/ HTTP/1.1" 200 10144
+INFO 2025-07-09 13:35:05,275 basehttp 2068 15868 "POST /api/projects/ HTTP/1.1" 201 11815
+INFO 2025-07-09 13:35:31,528 basehttp 2068 15868 "POST /api/projects/ HTTP/1.1" 201 11815
+INFO 2025-07-09 13:35:36,913 basehttp 2068 15868 "GET /admin/projects/project/ HTTP/1.1" 200 10568
+INFO 2025-07-09 13:35:37,030 basehttp 2068 15868 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-09 13:36:14,656 basehttp 2068 15868 "GET /api/ HTTP/1.1" 200 5427
+INFO 2025-07-09 13:36:22,853 basehttp 2068 15868 "GET /api/projects/ HTTP/1.1" 200 17361
+INFO 2025-07-09 13:36:52,414 basehttp 2068 15868 "GET /api/projects/?status=planning HTTP/1.1" 200 16185
+INFO 2025-07-09 13:37:08,064 basehttp 2068 15868 "GET /api/projects/?status=active HTTP/1.1" 200 17237
+INFO 2025-07-09 13:37:48,566 basehttp 2068 15868 "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 10193
+INFO 2025-07-09 13:37:48,774 basehttp 2068 15868 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-07-09 13:38:33,624 basehttp 2068 15868 "GET /api/auth/logout HTTP/1.1" 301 0
+WARNING 2025-07-09 13:38:33,785 log 2068 13760 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-09 13:38:33,785 basehttp 2068 13760 "GET /api/auth/logout/ HTTP/1.1" 405 5851
+WARNING 2025-07-09 13:40:14,296 log 2068 13760 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-09 13:40:14,299 basehttp 2068 13760 "GET /api/auth/logout/ HTTP/1.1" 405 5851
+INFO 2025-07-09 16:25:39,069 autoreload 14020 3228 Watching for file changes with StatReloader
+INFO 2025-07-09 16:27:01,721 basehttp 14020 14420 "GET / HTTP/1.1" 200 5293
+WARNING 2025-07-09 16:27:30,698 log 14020 14420 Not Found: /favicon.ico
+WARNING 2025-07-09 16:27:30,698 basehttp 14020 14420 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-10 11:17:15,469 autoreload 7844 6636 Watching for file changes with StatReloader
+INFO 2025-07-10 11:25:36,949 basehttp 7844 14880 "GET / HTTP/1.1" 200 5293
+INFO 2025-07-10 11:25:37,061 basehttp 7844 13576 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,061 basehttp 7844 8016 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,067 basehttp 7844 14880 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,113 basehttp 7844 8016 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,113 basehttp 7844 13576 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,113 basehttp 7844 13792 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,149 basehttp 7844 14880 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,163 basehttp 7844 8504 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,163 basehttp 7844 14196 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,201 basehttp 7844 8016 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:25:37,288 basehttp 7844 8016 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-07-10 11:25:44,309 log 7844 8016 Not Found: /favicon.ico
+WARNING 2025-07-10 11:25:44,319 basehttp 7844 8016 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-10 11:26:00,687 basehttp 7844 8016 "GET /admin/ HTTP/1.1" 200 8353
+INFO 2025-07-10 11:26:02,104 basehttp 7844 8016 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:02,113 basehttp 7844 14196 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:02,115 basehttp 7844 8504 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:02,233 basehttp 7844 14196 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:02,367 basehttp 7844 14880 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:02,921 basehttp 7844 8016 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:04,855 basehttp 7844 8016 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:05,398 basehttp 7844 8016 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:05,452 basehttp 7844 14196 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:05,454 basehttp 7844 14880 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-07-10 11:26:57,931 basehttp 7844 3804 "GET /api/projects/ HTTP/1.1" 200 18059
+INFO 2025-07-10 11:27:00,924 basehttp 7844 3804 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,359 basehttp 7844 12764 "GET /admin/projects/project/ HTTP/1.1" 200 10568
+INFO 2025-07-10 11:27:01,400 basehttp 7844 12764 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,411 basehttp 7844 15976 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,413 basehttp 7844 12764 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,555 basehttp 7844 14308 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,556 basehttp 7844 15976 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,556 basehttp 7844 12764 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,559 basehttp 7844 10852 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,562 basehttp 7844 8892 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:01,722 basehttp 7844 15976 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:02,539 basehttp 7844 3804 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 11:27:03,063 basehttp 7844 3804 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-10 11:27:03,483 basehttp 7844 3804 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+WARNING 2025-07-10 11:30:30,936 log 7844 9568 Not Found: /api/auth/account
+WARNING 2025-07-10 11:30:30,936 basehttp 7844 9568 "GET /api/auth/account HTTP/1.1" 404 5449
+WARNING 2025-07-10 11:30:44,815 log 7844 9568 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-10 11:30:44,817 basehttp 7844 9568 "GET /api/auth/register/ HTTP/1.1" 405 5844
+INFO 2025-07-10 11:35:58,765 basehttp 7844 15560 "GET /admin/accounts/user/ HTTP/1.1" 200 10315
+INFO 2025-07-10 11:36:00,041 basehttp 7844 15560 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 11:36:10,414 basehttp 7844 15560 "POST /api/auth/register/ HTTP/1.1" 201 6238
+INFO 2025-07-10 11:36:55,925 basehttp 7844 15560 "POST /api/auth/register/ HTTP/1.1" 201 6256
+INFO 2025-07-10 11:38:21,712 basehttp 7844 15560 "POST /api/auth/register/ HTTP/1.1" 201 6243
+INFO 2025-07-10 11:49:57,647 basehttp 7844 3720 "POST /api/auth/register/ HTTP/1.1" 201 6234
+INFO 2025-07-10 11:50:47,414 basehttp 7844 3720 "POST /api/auth/register/ HTTP/1.1" 201 6264
+WARNING 2025-07-10 11:51:03,366 log 7844 14880 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /api/auth/register/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 86, in save
+    obj.save(
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\base.py", line 990, in _save_table
+    updated = self._do_update(
+              ^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\base.py", line 1054, in _do_update
+    return filtered._update(values) > 0
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 1231, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1984, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 95, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2025-07-10 11:51:03,398 basehttp 7844 14880 "POST /api/auth/register/ HTTP/1.1" 400 174730
+WARNING 2025-07-10 11:52:10,317 log 7844 3720 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-10 11:52:10,317 basehttp 7844 3720 "GET /api/auth/register/ HTTP/1.1" 405 5844
+INFO 2025-07-10 11:52:30,350 basehttp 7844 7124 "GET /admin/accounts/user/ HTTP/1.1" 200 11368
+INFO 2025-07-10 11:52:31,450 basehttp 7844 7124 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+WARNING 2025-07-10 11:53:12,703 log 7844 7124 Method Not Allowed: /api/auth/register/
+WARNING 2025-07-10 11:53:12,703 basehttp 7844 7124 "GET /api/auth/register/ HTTP/1.1" 405 5844
+INFO 2025-07-10 11:53:47,536 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6248
+INFO 2025-07-10 11:54:32,708 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6256
+INFO 2025-07-10 11:55:05,353 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6255
+INFO 2025-07-10 11:55:38,893 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6253
+INFO 2025-07-10 11:55:56,719 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6248
+INFO 2025-07-10 11:56:14,996 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6251
+INFO 2025-07-10 11:56:40,214 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6247
+INFO 2025-07-10 11:57:01,292 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6258
+INFO 2025-07-10 11:57:24,992 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6250
+INFO 2025-07-10 11:58:08,030 basehttp 7844 7124 "POST /api/auth/register/ HTTP/1.1" 201 6261
+INFO 2025-07-10 12:00:51,259 basehttp 7844 7124 "GET /admin/accounts/user/ HTTP/1.1" 200 13503
+INFO 2025-07-10 12:00:52,943 basehttp 7844 7124 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:01:08,363 basehttp 7844 7124 "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 13804
+INFO 2025-07-10 12:01:08,426 basehttp 7844 7124 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-07-10 12:01:17,176 basehttp 7844 7124 "GET /admin/projects/project/ HTTP/1.1" 200 10568
+INFO 2025-07-10 12:01:17,273 basehttp 7844 7124 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:01:20,620 basehttp 7844 7124 "GET /admin/tasks/task/ HTTP/1.1" 200 8744
+INFO 2025-07-10 12:01:20,729 basehttp 7844 7124 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:01:24,970 basehttp 7844 7124 "GET /admin/projects/project/ HTTP/1.1" 200 10568
+INFO 2025-07-10 12:01:26,171 basehttp 7844 7124 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:01:59,828 basehttp 7844 7124 "POST /admin/projects/project/ HTTP/1.1" 200 9934
+INFO 2025-07-10 12:01:59,911 basehttp 7844 7124 "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+INFO 2025-07-10 12:02:30,889 basehttp 7844 7124 "POST /admin/projects/project/ HTTP/1.1" 302 0
+INFO 2025-07-10 12:02:30,973 basehttp 7844 7124 "GET /admin/projects/project/ HTTP/1.1" 200 8915
+INFO 2025-07-10 12:02:31,147 basehttp 7844 7124 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:02:31,226 basehttp 7844 7124 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-07-10 12:02:44,739 basehttp 7844 7124 "GET /admin/accounts/user/ HTTP/1.1" 200 13503
+INFO 2025-07-10 12:02:44,947 basehttp 7844 7124 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:03:30,373 basehttp 7844 7124 "GET /api/projects/ HTTP/1.1" 200 19515
+WARNING 2025-07-10 12:19:38,990 log 7844 11424 Bad Request: /api/projects/
+WARNING 2025-07-10 12:19:38,990 basehttp 7844 11424 "POST /api/projects/ HTTP/1.1" 400 14282
+INFO 2025-07-10 12:20:59,313 basehttp 7844 11424 "GET /admin/accounts/user/9/change/ HTTP/1.1" 200 23876
+INFO 2025-07-10 12:20:59,340 basehttp 7844 11424 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-07-10 12:20:59,352 basehttp 7844 2148 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-07-10 12:20:59,354 basehttp 7844 7680 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-07-10 12:20:59,356 basehttp 7844 5064 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-07-10 12:21:00,861 basehttp 7844 5064 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-07-10 12:21:01,724 basehttp 7844 5064 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-07-10 12:21:08,468 basehttp 7844 4692 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:21:08,523 basehttp 7844 5064 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2025-07-10 12:21:08,523 basehttp 7844 4692 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-07-10 12:26:02,578 basehttp 7844 4692 "GET /admin/accounts/user/ HTTP/1.1" 200 13503
+INFO 2025-07-10 12:26:43,212 basehttp 7844 4692 "GET /admin/accounts/user/5/change/ HTTP/1.1" 200 23840
+INFO 2025-07-10 12:26:49,572 basehttp 7844 4692 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 12:39:51,973 basehttp 7844 11848 "POST /api/projects/ HTTP/1.1" 201 14456
+INFO 2025-07-10 12:50:43,665 autoreload 7844 6636 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\serializers.py changed, reloading.
+INFO 2025-07-10 12:53:27,604 autoreload 1188 12536 Watching for file changes with StatReloader
+INFO 2025-07-10 12:57:55,083 basehttp 1188 6396 "GET / HTTP/1.1" 200 5293
+WARNING 2025-07-10 12:57:58,870 log 1188 6396 Not Found: /favicon.ico
+WARNING 2025-07-10 12:57:58,870 basehttp 1188 6396 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-10 12:58:18,235 basehttp 1188 6396 "GET / HTTP/1.1" 200 5293
+INFO 2025-07-10 12:58:30,204 basehttp 1188 6396 "GET /api/projects/ HTTP/1.1" 200 16670
+INFO 2025-07-10 13:01:22,632 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11402
+INFO 2025-07-10 13:01:59,233 basehttp 1188 6396 "GET /admin/ HTTP/1.1" 200 9337
+INFO 2025-07-10 13:02:22,284 basehttp 1188 6396 "GET /admin/projects/project/ HTTP/1.1" 200 10176
+INFO 2025-07-10 13:02:23,701 basehttp 1188 6396 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 13:02:31,017 basehttp 1188 6396 "GET /admin/projects/project/6/change/ HTTP/1.1" 200 17196
+INFO 2025-07-10 13:02:31,070 basehttp 1188 1216 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-07-10 13:02:31,277 basehttp 1188 6396 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 13:02:47,711 basehttp 1188 6396 "GET /admin/projects/project/ HTTP/1.1" 200 10176
+INFO 2025-07-10 13:02:47,899 basehttp 1188 6396 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 13:03:17,522 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11400
+INFO 2025-07-10 13:03:47,270 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11401
+INFO 2025-07-10 13:04:12,075 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11409
+INFO 2025-07-10 13:04:45,850 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11407
+INFO 2025-07-10 13:05:10,057 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11401
+INFO 2025-07-10 13:05:31,050 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11410
+INFO 2025-07-10 13:06:01,663 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11396
+INFO 2025-07-10 13:06:20,483 basehttp 1188 6396 "POST /api/projects/ HTTP/1.1" 201 11387
+INFO 2025-07-10 13:06:26,688 basehttp 1188 6396 "GET /admin/projects/project/ HTTP/1.1" 200 12006
+INFO 2025-07-10 13:06:26,866 basehttp 1188 6396 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 14:28:17,418 autoreload 17288 15828 Watching for file changes with StatReloader
+INFO 2025-07-10 14:28:21,467 basehttp 17288 19276 "GET / HTTP/1.1" 200 5293
+WARNING 2025-07-10 14:28:31,209 log 17288 19276 Not Found: /favicon.ico
+WARNING 2025-07-10 14:28:31,209 basehttp 17288 19276 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-10 14:28:45,491 basehttp 17288 19276 "GET / HTTP/1.1" 200 5293
+INFO 2025-07-10 14:28:55,127 basehttp 17288 19276 "GET /admin/ HTTP/1.1" 200 9337
+INFO 2025-07-10 14:29:14,522 basehttp 17288 19276 "GET /api/tasks/ HTTP/1.1" 200 5543
+INFO 2025-07-10 14:29:21,806 basehttp 17288 19276 "GET /tasks/ HTTP/1.1" 200 19055
+WARNING 2025-07-10 14:32:28,269 log 17288 19276 Bad Request: /tasks/
+WARNING 2025-07-10 14:32:28,269 basehttp 17288 19276 "POST /tasks/ HTTP/1.1" 400 13160
+INFO 2025-07-10 14:39:19,930 autoreload 17288 15828 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\serializers.py changed, reloading.
+INFO 2025-07-10 14:39:22,162 autoreload 19328 18112 Watching for file changes with StatReloader
+INFO 2025-07-10 14:39:26,980 basehttp 19328 19240 "GET /tasks/ HTTP/1.1" 200 22507
+WARNING 2025-07-10 14:40:08,122 log 19328 19240 Bad Request: /tasks/
+WARNING 2025-07-10 14:40:08,122 basehttp 19328 19240 "POST /tasks/ HTTP/1.1" 400 16520
+INFO 2025-07-10 14:48:19,140 autoreload 19328 18112 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\serializers.py changed, reloading.
+INFO 2025-07-10 14:48:20,612 autoreload 18144 8388 Watching for file changes with StatReloader
+INFO 2025-07-10 14:48:30,601 basehttp 18144 16716 "GET /tasks/ HTTP/1.1" 200 17860
+INFO 2025-07-10 14:50:50,309 basehttp 18144 16716 "GET /admin/accounts/user/ HTTP/1.1" 200 13503
+INFO 2025-07-10 14:50:50,593 basehttp 18144 16716 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 14:51:00,473 basehttp 18144 16716 "GET /admin/accounts/user/5/change/ HTTP/1.1" 200 23840
+INFO 2025-07-10 14:51:00,769 basehttp 18144 16716 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+WARNING 2025-07-10 14:51:22,042 log 18144 16716 Bad Request: /tasks/
+WARNING 2025-07-10 14:51:22,057 basehttp 18144 16716 "POST /tasks/ HTTP/1.1" 400 12220
+WARNING 2025-07-10 14:52:01,277 log 18144 16716 Bad Request: /tasks/
+WARNING 2025-07-10 14:52:01,277 basehttp 18144 16716 "POST /tasks/ HTTP/1.1" 400 5146
+INFO 2025-07-10 14:52:29,360 basehttp 18144 16716 "GET /tasks/ HTTP/1.1" 200 17860
+WARNING 2025-07-10 14:53:43,521 log 18144 16716 Bad Request: /tasks/
+WARNING 2025-07-10 14:53:43,521 basehttp 18144 16716 "POST /tasks/ HTTP/1.1" 400 12408
+WARNING 2025-07-10 14:54:53,148 log 18144 16716 Bad Request: /tasks/
+WARNING 2025-07-10 14:54:53,148 basehttp 18144 16716 "POST /tasks/ HTTP/1.1" 400 5146
+INFO 2025-07-10 15:02:42,294 autoreload 18144 8388 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\serializers.py changed, reloading.
+INFO 2025-07-10 15:02:43,536 autoreload 18524 17088 Watching for file changes with StatReloader
+INFO 2025-07-10 15:02:49,237 basehttp 18524 5148 "GET /tasks/ HTTP/1.1" 200 17860
+WARNING 2025-07-10 15:03:43,365 log 18524 5148 Bad Request: /tasks/
+WARNING 2025-07-10 15:03:43,365 basehttp 18524 5148 "POST /tasks/ HTTP/1.1" 400 12408
+INFO 2025-07-10 15:36:11,863 autoreload 18524 17088 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\serializers.py changed, reloading.
+INFO 2025-07-10 15:36:29,842 autoreload 10016 13616 Watching for file changes with StatReloader
+INFO 2025-07-10 15:39:27,276 basehttp 10016 17672 "GET /tasks/ HTTP/1.1" 200 23053
+INFO 2025-07-10 15:39:52,205 basehttp 10016 17672 "POST /tasks/ HTTP/1.1" 201 17284
+INFO 2025-07-10 15:40:04,131 basehttp 10016 17672 "GET /admin/tasks/task/ HTTP/1.1" 200 9941
+INFO 2025-07-10 15:40:04,323 basehttp 10016 17672 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:40:12,394 basehttp 10016 17672 "GET /admin/tasks/task/1/change/ HTTP/1.1" 200 21268
+INFO 2025-07-10 15:40:12,588 basehttp 10016 17672 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:40:50,554 basehttp 10016 17672 "GET /admin/tasks/task/ HTTP/1.1" 200 9941
+INFO 2025-07-10 15:41:06,597 autoreload 10016 13616 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\models.py changed, reloading.
+INFO 2025-07-10 15:41:07,973 autoreload 17764 16472 Watching for file changes with StatReloader
+INFO 2025-07-10 15:41:09,299 basehttp 17764 18156 "GET /admin/tasks/task/ HTTP/1.1" 200 9910
+INFO 2025-07-10 15:41:09,712 basehttp 17764 18156 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:45:40,693 autoreload 17764 16472 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\serializers.py changed, reloading.
+INFO 2025-07-10 15:45:41,799 autoreload 18992 17340 Watching for file changes with StatReloader
+INFO 2025-07-10 15:54:41,369 autoreload 18992 17340 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\serializers.py changed, reloading.
+INFO 2025-07-10 15:54:42,602 autoreload 10476 17252 Watching for file changes with StatReloader
+INFO 2025-07-10 15:54:45,843 basehttp 10476 16588 "GET /api/projects/ HTTP/1.1" 200 27322
+INFO 2025-07-10 15:55:39,665 basehttp 10476 16588 "GET /admin/accounts/user/ HTTP/1.1" 200 13503
+INFO 2025-07-10 15:55:39,836 basehttp 10476 16588 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:56:29,267 basehttp 10476 16588 "POST /api/projects/ HTTP/1.1" 201 14885
+INFO 2025-07-10 15:56:37,313 basehttp 10476 16588 "GET /admin/projects/project/ HTTP/1.1" 200 12238
+INFO 2025-07-10 15:56:37,444 basehttp 10476 16588 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:56:44,328 basehttp 10476 16588 "GET /admin/projects/project/15/change/ HTTP/1.1" 200 17246
+INFO 2025-07-10 15:56:44,512 basehttp 10476 16588 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:57:05,533 basehttp 10476 16588 "GET /admin/projects/project/ HTTP/1.1" 200 12238
+INFO 2025-07-10 15:57:10,155 basehttp 10476 16588 "GET /admin/projects/project/15/change/ HTTP/1.1" 200 17246
+INFO 2025-07-10 15:57:10,304 basehttp 10476 16588 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:57:45,419 basehttp 10476 16588 "GET /api/tasks/ HTTP/1.1" 200 5543
+INFO 2025-07-10 15:57:51,373 basehttp 10476 16588 "GET /tasks/ HTTP/1.1" 200 24195
+INFO 2025-07-10 15:58:30,763 basehttp 10476 16588 "GET /admin/tasks/task/ HTTP/1.1" 200 9910
+INFO 2025-07-10 15:58:30,932 basehttp 10476 16588 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:58:46,324 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17346
+INFO 2025-07-10 15:58:54,409 basehttp 10476 16588 "GET /admin/tasks/task/ HTTP/1.1" 200 10145
+INFO 2025-07-10 15:58:54,549 basehttp 10476 16588 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 15:59:38,768 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17345
+INFO 2025-07-10 16:00:06,759 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17307
+INFO 2025-07-10 16:00:35,831 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17348
+INFO 2025-07-10 16:00:57,891 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17315
+INFO 2025-07-10 16:01:19,190 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17331
+INFO 2025-07-10 16:01:38,606 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17333
+INFO 2025-07-10 16:02:00,441 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17315
+INFO 2025-07-10 16:02:18,377 basehttp 10476 16588 "POST /tasks/ HTTP/1.1" 201 17350
+INFO 2025-07-10 16:02:23,630 basehttp 10476 16588 "GET /admin/tasks/task/ HTTP/1.1" 200 11941
+INFO 2025-07-10 16:02:23,805 basehttp 10476 16588 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 16:09:12,803 autoreload 4100 16484 Watching for file changes with StatReloader
+INFO 2025-07-10 16:09:40,224 basehttp 4100 13592 "GET / HTTP/1.1" 200 5293
+WARNING 2025-07-10 16:09:44,241 log 4100 13592 Not Found: /favicon.ico
+WARNING 2025-07-10 16:09:44,241 basehttp 4100 13592 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-10 16:10:20,853 basehttp 4100 13592 "GET /api/projects/ HTTP/1.1" 200 28131
+INFO 2025-07-10 16:10:54,464 basehttp 4100 13592 "GET /api/projects/?status=planning&manager=&team_members=6&start_date= HTTP/1.1" 200 22274
+INFO 2025-07-10 16:12:01,722 basehttp 4100 13592 "GET /api/projects/?status=planning&manager=&team_members=1&start_date= HTTP/1.1" 200 21531
+INFO 2025-07-10 16:12:09,036 basehttp 4100 13592 "GET /api/projects/?status=planning&manager=&team_members=1&start_date= HTTP/1.1" 200 21531
+INFO 2025-07-10 16:30:22,002 autoreload 4100 16484 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\views.py changed, reloading.
+INFO 2025-07-10 16:30:22,969 autoreload 18172 16220 Watching for file changes with StatReloader
+INFO 2025-07-10 16:30:27,277 basehttp 18172 5144 "GET /api/projects/?status=planning&manager=&team_members=1&start_date= HTTP/1.1" 200 21978
+INFO 2025-07-10 16:31:06,957 basehttp 18172 5144 "GET /api/projects/ HTTP/1.1" 200 28578
+INFO 2025-07-10 16:32:18,449 basehttp 18172 5144 "GET /api/projects/?search=E-commerce+Platform+Redesign HTTP/1.1" 200 22079
+INFO 2025-07-10 16:49:03,843 autoreload 18172 16220 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\views.py changed, reloading.
+INFO 2025-07-10 16:49:05,032 autoreload 19400 18712 Watching for file changes with StatReloader
+INFO 2025-07-10 16:49:20,576 basehttp 19400 9260 "GET /api/projects/ HTTP/1.1" 200 27049
+INFO 2025-07-10 16:54:11,792 autoreload 19400 18712 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\views.py changed, reloading.
+INFO 2025-07-10 16:54:12,875 autoreload 16824 17192 Watching for file changes with StatReloader
+INFO 2025-07-10 16:54:20,926 basehttp 16824 13316 "GET /api/tasks/ HTTP/1.1" 200 5543
+INFO 2025-07-10 16:54:27,223 basehttp 16824 13316 "GET /tasks/ HTTP/1.1" 200 33797
+INFO 2025-07-10 16:55:17,911 basehttp 16824 13316 "GET /tasks/?project=&assigned_to=&created_by=&priority=medium&status= HTTP/1.1" 200 29899
+INFO 2025-07-10 17:01:53,313 autoreload 17044 13028 Watching for file changes with StatReloader
+INFO 2025-07-10 17:01:58,784 basehttp 17044 11580 "GET / HTTP/1.1" 200 5293
+WARNING 2025-07-10 17:01:59,478 log 17044 11580 Not Found: /favicon.ico
+WARNING 2025-07-10 17:01:59,478 basehttp 17044 11580 "GET /favicon.ico HTTP/1.1" 404 3722
+WARNING 2025-07-10 17:02:34,384 log 17044 14300 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-10 17:02:34,395 basehttp 17044 14300 "GET /api/auth/login/ HTTP/1.1" 405 5842
+INFO 2025-07-10 17:03:46,452 basehttp 17044 14300 "GET /admin/ HTTP/1.1" 200 9337
+INFO 2025-07-10 17:03:57,452 basehttp 17044 14300 "GET /admin/accounts/user/ HTTP/1.1" 200 13503
+INFO 2025-07-10 17:03:57,911 basehttp 17044 14300 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 17:04:05,375 basehttp 17044 14300 "GET /admin/accounts/user/4/change/ HTTP/1.1" 200 23839
+INFO 2025-07-10 17:04:05,711 basehttp 17044 14300 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 17:04:58,071 basehttp 17044 14300 "POST /api/auth/login/ HTTP/1.1" 200 6224
+INFO 2025-07-10 17:05:12,791 basehttp 17044 14300 "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 302 0
+INFO 2025-07-10 17:05:13,502 basehttp 17044 14300 "GET /admin/login/?next=/admin/authtoken/tokenproxy/ HTTP/1.1" 200 3751
+INFO 2025-07-10 17:05:13,566 basehttp 17044 14300 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+WARNING 2025-07-10 17:05:30,317 log 17044 14300 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-10 17:05:30,318 basehttp 17044 14300 "GET /api/auth/logout/ HTTP/1.1" 405 5855
+WARNING 2025-07-10 17:06:15,956 log 17044 14300 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-10 17:06:15,966 basehttp 17044 14300 "GET /api/auth/logout/ HTTP/1.1" 405 5855
+INFO 2025-07-10 17:06:46,381 basehttp 17044 14300 "GET / HTTP/1.1" 200 5297
+WARNING 2025-07-10 17:07:11,035 log 17044 14300 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-10 17:07:11,041 basehttp 17044 14300 "GET /api/auth/logout/ HTTP/1.1" 405 5855
+INFO 2025-07-10 17:07:18,260 basehttp 17044 14300 "OPTIONS /api/auth/logout/ HTTP/1.1" 200 6126
+INFO 2025-07-10 17:07:28,773 basehttp 17044 14300 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+INFO 2025-07-10 18:34:44,275 autoreload 3392 18700 Watching for file changes with StatReloader
+WARNING 2025-07-10 18:34:47,977 log 3392 7680 Forbidden: /
+WARNING 2025-07-10 18:34:47,977 basehttp 3392 7680 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-10 18:34:52,212 log 3392 7680 Not Found: /favicon.ico
+WARNING 2025-07-10 18:34:52,212 basehttp 3392 7680 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-10 18:35:54,632 basehttp 3392 12948 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-10 18:35:55,303 basehttp 3392 12948 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4185
+INFO 2025-07-10 18:36:06,316 basehttp 3392 18524 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4346
+INFO 2025-07-10 18:36:22,996 basehttp 3392 18524 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-10 18:36:23,245 basehttp 3392 18524 "GET /admin/ HTTP/1.1" 200 9337
+INFO 2025-07-10 18:36:29,528 basehttp 3392 18524 "GET /admin/accounts/user/ HTTP/1.1" 200 13503
+INFO 2025-07-10 18:36:30,113 basehttp 3392 18524 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 18:36:36,614 basehttp 3392 18524 "GET /admin/tasks/task/ HTTP/1.1" 200 11941
+INFO 2025-07-10 18:36:36,765 basehttp 3392 18524 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 18:36:51,833 basehttp 3392 18524 "GET /admin/tasks/task/8/change/ HTTP/1.1" 200 21173
+INFO 2025-07-10 18:36:57,950 basehttp 3392 18524 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-10 18:37:04,391 basehttp 3392 18524 "GET / HTTP/1.1" 200 5293
+WARNING 2025-07-10 18:37:23,604 log 3392 18524 Not Found: /login/
+WARNING 2025-07-10 18:37:23,620 basehttp 3392 18524 "GET /login/ HTTP/1.1" 404 3707
+WARNING 2025-07-10 18:37:37,405 log 3392 18524 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-10 18:37:37,405 basehttp 3392 18524 "GET /api/auth/login/ HTTP/1.1" 405 5842
+INFO 2025-07-10 18:40:16,433 basehttp 3392 14392 "POST /api/auth/login/ HTTP/1.1" 200 6240
+INFO 2025-07-10 18:40:41,135 basehttp 3392 5232 "GET /api/tasks/ HTTP/1.1" 200 5547
+INFO 2025-07-10 18:40:51,127 basehttp 3392 5232 "GET /tasks/ HTTP/1.1" 200 26492
+ERROR 2025-07-10 18:40:52,168 log 3392 18060 Internal Server Error: /api/auth/login/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\request.py", line 227, in user
+    self._authenticate()
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\authentication.py", line 127, in authenticate
+    if not user or not user.is_active:
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\utils\functional.py", line 266, in inner
+    self._setup()
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\utils\functional.py", line 419, in _setup
+    self._wrapped = self._setupfunc()
+                    ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\middleware.py", line 25, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\middleware.py", line 11, in get_user
+    request._cached_user = auth.get_user(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\__init__.py", line 191, in get_user
+    user_id = _get_user_session_key(request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\__init__.py", line 60, in _get_user_session_key
+    return get_user_model()._meta.pk.to_python(request.session[SESSION_KEY])
+                                               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 53, in __getitem__
+    return self._session[key]
+           ^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+INFO 2025-07-10 18:40:52,189 basehttp 3392 18060 code 400, message Bad request syntax ('{')
+WARNING 2025-07-10 18:40:52,189 basehttp 3392 18060 "{" 400 -
+INFO 2025-07-10 18:40:52,189 basehttp 3392 18060 - Broken pipe from ('127.0.0.1', 55352)
+WARNING 2025-07-10 18:41:23,698 log 3392 5232 Not Found: /logout
+WARNING 2025-07-10 18:41:23,698 basehttp 3392 5232 "GET /logout HTTP/1.1" 404 3707
+WARNING 2025-07-10 18:41:42,207 log 3392 18524 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-10 18:41:42,207 basehttp 3392 18524 "GET /api/auth/logout/ HTTP/1.1" 405 5855
+INFO 2025-07-10 18:41:48,563 basehttp 3392 16752 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+INFO 2025-07-11 14:45:09,864 autoreload 9716 15868 Watching for file changes with StatReloader
+INFO 2025-07-11 14:52:20,085 autoreload 9716 15868 D:\Django Projects\Taskflow - Task managment system\taskflow\projects\permissions.py changed, reloading.
+INFO 2025-07-11 14:52:21,606 autoreload 11948 11356 Watching for file changes with StatReloader
+INFO 2025-07-11 18:39:59,171 autoreload 16408 17472 Watching for file changes with StatReloader
+WARNING 2025-07-11 18:41:22,194 log 16408 11112 Forbidden: /
+WARNING 2025-07-11 18:41:22,194 basehttp 16408 11112 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-11 18:41:22,732 basehttp 16408 16668 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,732 basehttp 16408 1648 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,747 basehttp 16408 16668 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,747 basehttp 16408 1648 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,764 basehttp 16408 15488 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,764 basehttp 16408 15256 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,766 basehttp 16408 15596 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,766 basehttp 16408 12676 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,796 basehttp 16408 16668 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:22,796 basehttp 16408 1648 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:41:55,220 basehttp 16408 1648 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-07-11 18:41:57,358 log 16408 1648 Not Found: /favicon.ico
+WARNING 2025-07-11 18:41:57,358 basehttp 16408 1648 "GET /favicon.ico HTTP/1.1" 404 3722
+INFO 2025-07-11 18:48:31,905 basehttp 16408 15488 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-11 18:48:45,237 basehttp 16408 15488 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4185
+INFO 2025-07-11 18:48:45,280 basehttp 16408 15488 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:48:45,304 basehttp 16408 15996 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:48:45,352 basehttp 16408 6960 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:48:45,354 basehttp 16408 3540 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:48:45,374 basehttp 16408 4536 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:48:45,377 basehttp 16408 15488 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:48:45,379 basehttp 16408 17280 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:03,800 basehttp 16408 17280 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-11 18:49:04,139 basehttp 16408 17280 "GET /admin/ HTTP/1.1" 200 9337
+INFO 2025-07-11 18:49:04,158 basehttp 16408 17280 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:04,278 basehttp 16408 17280 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:04,290 basehttp 16408 15488 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:04,292 basehttp 16408 4536 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,748 basehttp 16408 4536 "GET /admin/projects/project/ HTTP/1.1" 200 12238
+INFO 2025-07-11 18:49:10,983 basehttp 16408 6960 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,984 basehttp 16408 15488 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,984 basehttp 16408 15996 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,984 basehttp 16408 17280 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,984 basehttp 16408 3540 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,990 basehttp 16408 6960 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,990 basehttp 16408 15488 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:10,990 basehttp 16408 15996 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:11,221 basehttp 16408 17280 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:12,103 basehttp 16408 4536 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-11 18:49:12,107 basehttp 16408 4536 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:12,207 basehttp 16408 4536 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:23,934 basehttp 16408 4536 "GET /admin/projects/project/5/change/ HTTP/1.1" 200 17248
+INFO 2025-07-11 18:49:24,031 basehttp 16408 15488 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:24,032 basehttp 16408 17280 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:24,168 basehttp 16408 15996 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:24,203 basehttp 16408 15488 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:24,361 basehttp 16408 17280 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:24,534 basehttp 16408 17280 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:24,534 basehttp 16408 17280 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:24,755 basehttp 16408 4536 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-11 18:49:24,946 basehttp 16408 4536 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-07-11 18:49:32,381 basehttp 16408 4536 "GET /admin/projects/project/ HTTP/1.1" 200 12238
+INFO 2025-07-11 18:49:35,317 basehttp 16408 4536 "GET /admin/projects/project/6/change/ HTTP/1.1" 200 17196
+INFO 2025-07-11 18:49:35,423 basehttp 16408 4536 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-11 18:49:39,868 basehttp 16408 4536 "GET /admin/projects/project/ HTTP/1.1" 200 12238
+INFO 2025-07-11 18:49:42,662 basehttp 16408 4536 "GET /admin/projects/project/7/change/ HTTP/1.1" 200 17199
+INFO 2025-07-11 18:49:43,031 basehttp 16408 4536 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-11 18:49:49,696 basehttp 16408 4536 "GET /admin/projects/project/ HTTP/1.1" 200 12238
+INFO 2025-07-11 18:49:52,315 basehttp 16408 4536 "GET /admin/projects/project/8/change/ HTTP/1.1" 200 17174
+INFO 2025-07-11 18:49:53,230 basehttp 16408 4536 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2025-07-11 18:50:10,360 basehttp 16408 4536 "GET /admin/projects/project/ HTTP/1.1" 200 12238
+WARNING 2025-07-11 18:51:28,361 log 16408 16880 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-11 18:51:28,362 basehttp 16408 16880 "GET /api/auth/login/ HTTP/1.1" 405 5842
+INFO 2025-07-11 18:53:20,406 basehttp 16408 16880 "POST /api/auth/login/ HTTP/1.1" 200 6234
+INFO 2025-07-11 18:53:45,108 basehttp 16408 16880 "GET /api/projects/ HTTP/1.1" 200 21477
+INFO 2025-07-11 18:53:45,269 basehttp 16408 16880 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+WARNING 2025-07-11 18:54:51,410 log 16408 16880 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-11 18:54:51,411 basehttp 16408 16880 "GET /api/auth/logout/ HTTP/1.1" 405 5854
+INFO 2025-07-11 18:55:02,500 basehttp 16408 16880 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+WARNING 2025-07-11 18:55:09,884 log 16408 16880 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-11 18:55:09,884 basehttp 16408 16880 "GET /api/auth/login/ HTTP/1.1" 405 5808
+INFO 2025-07-11 18:55:56,279 basehttp 16408 16880 "POST /api/auth/login/ HTTP/1.1" 200 6256
+WARNING 2025-07-11 18:56:10,996 log 16408 16880 Not Found: /api/auth/projects/
+WARNING 2025-07-11 18:56:10,996 basehttp 16408 16880 "GET /api/auth/projects/ HTTP/1.1" 404 5455
+INFO 2025-07-11 19:02:50,666 basehttp 16408 12040 "GET /api/projects/ HTTP/1.1" 200 12970
+WARNING 2025-07-11 19:03:53,705 log 16408 12040 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-11 19:03:53,705 basehttp 16408 12040 "GET /api/auth/logout/ HTTP/1.1" 405 5858
+INFO 2025-07-11 19:04:06,349 basehttp 16408 12040 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+INFO 2025-07-13 00:23:56,115 autoreload 7552 11056 Watching for file changes with StatReloader
+WARNING 2025-07-13 00:24:15,511 log 7552 8024 Forbidden: /
+WARNING 2025-07-13 00:24:15,513 basehttp 7552 8024 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-13 00:24:15,866 basehttp 7552 16528 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:15,899 basehttp 7552 528 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:15,899 basehttp 7552 16528 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,006 basehttp 7552 16528 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,008 basehttp 7552 528 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,022 basehttp 7552 16528 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,068 basehttp 7552 10268 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,071 basehttp 7552 6928 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,071 basehttp 7552 6876 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,074 basehttp 7552 8024 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-13 00:24:16,590 basehttp 7552 8024 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-07-13 00:24:18,404 log 7552 8024 Not Found: /favicon.ico
+WARNING 2025-07-13 00:24:18,404 basehttp 7552 8024 "GET /favicon.ico HTTP/1.1" 404 3722
+WARNING 2025-07-13 00:24:36,179 log 7552 8024 Not Found: /login/
+WARNING 2025-07-13 00:24:36,179 basehttp 7552 8024 "GET /login/ HTTP/1.1" 404 3707
+WARNING 2025-07-13 00:24:48,564 log 7552 8024 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-13 00:24:48,564 basehttp 7552 8024 "GET /api/auth/login/ HTTP/1.1" 405 5808
+INFO 2025-07-13 00:26:22,262 basehttp 7552 8024 "POST /api/auth/login/ HTTP/1.1" 200 6246
+INFO 2025-07-13 00:27:04,959 basehttp 7552 8024 "GET /api/tasks/ HTTP/1.1" 200 5548
+INFO 2025-07-13 00:27:10,639 basehttp 7552 8024 "GET /tasks/ HTTP/1.1" 200 22532
+INFO 2025-07-13 00:27:10,782 basehttp 7552 8024 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+INFO 2025-07-13 00:32:41,421 autoreload 7552 11056 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\views.py changed, reloading.
+INFO 2025-07-13 00:32:42,912 autoreload 3332 11404 Watching for file changes with StatReloader
+INFO 2025-07-13 00:32:46,163 basehttp 3332 17224 "GET /tasks/ HTTP/1.1" 200 13350
+WARNING 2025-07-13 00:33:05,329 log 3332 17224 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-13 00:33:05,333 basehttp 3332 17224 "GET /api/auth/logout/ HTTP/1.1" 405 5856
+INFO 2025-07-13 00:33:13,843 basehttp 3332 17224 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+WARNING 2025-07-13 00:33:23,436 log 3332 17224 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-13 00:33:23,441 basehttp 3332 17224 "GET /api/auth/login/ HTTP/1.1" 405 5808
+INFO 2025-07-13 00:33:58,423 basehttp 3332 17224 "POST /api/auth/login/ HTTP/1.1" 200 6256
+INFO 2025-07-13 00:34:09,355 basehttp 3332 17224 "GET /tasks/ HTTP/1.1" 200 15178
+WARNING 2025-07-13 00:34:47,462 log 3332 17224 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-13 00:34:47,465 basehttp 3332 17224 "GET /api/auth/logout/ HTTP/1.1" 405 5858
+INFO 2025-07-13 00:34:52,608 basehttp 3332 17224 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+WARNING 2025-07-13 00:34:58,863 log 3332 17224 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-13 00:34:58,868 basehttp 3332 17224 "GET /api/auth/login/ HTTP/1.1" 405 5808
+INFO 2025-07-13 00:35:44,545 basehttp 3332 17224 "POST /api/auth/login/ HTTP/1.1" 200 6234
+INFO 2025-07-13 00:35:54,488 basehttp 3332 17224 "GET /api/tasks/ HTTP/1.1" 200 5546
+INFO 2025-07-13 00:35:58,490 basehttp 3332 17224 "GET /tasks/ HTTP/1.1" 200 24369
+WARNING 2025-07-13 00:38:48,267 log 3332 17224 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-13 00:38:48,280 basehttp 3332 17224 "GET /api/auth/logout/ HTTP/1.1" 405 5854
+INFO 2025-07-13 00:39:01,144 basehttp 3332 17224 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+INFO 2025-07-13 00:59:26,952 autoreload 2200 16900 Watching for file changes with StatReloader
+WARNING 2025-07-13 00:59:33,774 log 2200 3892 Forbidden: /
+WARNING 2025-07-13 00:59:33,776 basehttp 2200 3892 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-13 00:59:35,773 log 2200 3892 Not Found: /favicon.ico
+WARNING 2025-07-13 00:59:35,789 basehttp 2200 3892 "GET /favicon.ico HTTP/1.1" 404 4186
+WARNING 2025-07-13 01:02:42,475 log 2200 3892 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-13 01:02:42,477 basehttp 2200 3892 "GET /api/auth/login/ HTTP/1.1" 405 5808
+INFO 2025-07-13 01:03:03,176 basehttp 2200 3892 "POST /api/auth/login/ HTTP/1.1" 200 6256
+INFO 2025-07-13 01:03:12,108 basehttp 2200 3892 "GET /api/tasks/ HTTP/1.1" 200 5550
+INFO 2025-07-13 01:03:14,473 basehttp 2200 3892 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:09:55,087 autoreload 2200 16900 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\urls.py changed, reloading.
+INFO 2025-07-13 01:09:56,050 autoreload 16192 15788 Watching for file changes with StatReloader
+INFO 2025-07-13 01:10:13,444 autoreload 16192 15788 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\urls.py changed, reloading.
+INFO 2025-07-13 01:10:14,152 autoreload 6768 14180 Watching for file changes with StatReloader
+INFO 2025-07-13 01:10:43,017 basehttp 6768 12380 "GET /tasks/update_status HTTP/1.1" 301 0
+WARNING 2025-07-13 01:10:43,167 log 6768 9636 Not Found: /tasks/update_status/
+WARNING 2025-07-13 01:10:43,167 basehttp 6768 9636 "GET /tasks/update_status/ HTTP/1.1" 404 17077
+INFO 2025-07-13 01:11:26,121 basehttp 6768 9636 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:12:30,836 basehttp 6768 9636 "GET /tasks/9/update_status HTTP/1.1" 301 0
+WARNING 2025-07-13 01:12:30,971 log 6768 6256 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:12:30,971 basehttp 6768 6256 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+WARNING 2025-07-13 01:15:51,591 log 6768 6256 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-13 01:15:51,592 basehttp 6768 6256 "GET /api/auth/login/ HTTP/1.1" 405 5849
+WARNING 2025-07-13 01:15:58,164 log 6768 6256 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-13 01:15:58,166 basehttp 6768 6256 "GET /api/auth/login/ HTTP/1.1" 405 5849
+WARNING 2025-07-13 01:16:25,457 log 6768 6256 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-13 01:16:25,457 basehttp 6768 6256 "GET /api/auth/logout/ HTTP/1.1" 405 5858
+INFO 2025-07-13 01:16:31,372 basehttp 6768 6256 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+WARNING 2025-07-13 01:16:37,919 log 6768 6256 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-13 01:16:37,920 basehttp 6768 6256 "GET /api/auth/login/ HTTP/1.1" 405 5808
+INFO 2025-07-13 01:16:49,377 basehttp 6768 6256 "POST /api/auth/login/ HTTP/1.1" 200 6256
+INFO 2025-07-13 01:17:06,634 basehttp 6768 6256 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:17:25,127 basehttp 6768 6256 "GET /tasks/6/update_status HTTP/1.1" 301 0
+WARNING 2025-07-13 01:17:25,263 log 6768 17064 Forbidden: /tasks/6/update_status/
+WARNING 2025-07-13 01:17:25,280 basehttp 6768 17064 "GET /tasks/6/update_status/ HTTP/1.1" 403 4054
+INFO 2025-07-13 01:19:17,815 basehttp 6768 17064 "GET /tasks/2/update_status HTTP/1.1" 301 0
+WARNING 2025-07-13 01:19:17,930 log 6768 13876 Forbidden: /tasks/2/update_status/
+WARNING 2025-07-13 01:19:17,932 basehttp 6768 13876 "GET /tasks/2/update_status/ HTTP/1.1" 403 4054
+WARNING 2025-07-13 01:19:35,082 log 6768 13876 Not Found: /tasks/update_status/
+WARNING 2025-07-13 01:19:35,084 basehttp 6768 13876 "GET /tasks/update_status/ HTTP/1.1" 404 17077
+WARNING 2025-07-13 01:21:42,195 log 6768 13876 Forbidden: /tasks/2/update_status/
+WARNING 2025-07-13 01:21:42,195 basehttp 6768 13876 "GET /tasks/2/update_status/ HTTP/1.1" 403 4054
+WARNING 2025-07-13 01:30:22,330 log 6768 16572 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:30:22,330 basehttp 6768 16572 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+INFO 2025-07-13 01:30:30,728 basehttp 6768 16944 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:31:05,584 autoreload 6768 14180 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\urls.py changed, reloading.
+INFO 2025-07-13 01:31:06,606 autoreload 13628 12896 Watching for file changes with StatReloader
+WARNING 2025-07-13 01:31:26,169 log 13628 8168 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:31:26,171 basehttp 13628 8168 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+INFO 2025-07-13 01:32:34,229 basehttp 13628 8168 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:33:05,782 autoreload 13628 12896 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\urls.py changed, reloading.
+INFO 2025-07-13 01:33:06,522 autoreload 15728 11840 Watching for file changes with StatReloader
+WARNING 2025-07-13 01:33:24,573 log 15728 4428 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:33:24,573 basehttp 15728 4428 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+INFO 2025-07-13 01:35:25,139 autoreload 15728 11840 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\urls.py changed, reloading.
+INFO 2025-07-13 01:35:26,456 autoreload 16276 13496 Watching for file changes with StatReloader
+WARNING 2025-07-13 01:35:29,320 log 16276 1700 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:35:29,320 basehttp 16276 1700 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+WARNING 2025-07-13 01:35:32,255 log 16276 1700 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:35:32,255 basehttp 16276 1700 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+WARNING 2025-07-13 01:35:32,916 log 16276 1700 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:35:32,920 basehttp 16276 1700 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+INFO 2025-07-13 01:37:48,571 basehttp 16276 1700 "GET / HTTP/1.1" 200 5300
+INFO 2025-07-13 01:37:53,503 basehttp 16276 1700 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:37:58,110 basehttp 16276 1700 "GET /tasks/ HTTP/1.1" 200 15178
+WARNING 2025-07-13 01:38:15,820 log 16276 1700 Not Found: /tasksh/
+WARNING 2025-07-13 01:38:15,820 basehttp 16276 1700 "GET /tasksh/ HTTP/1.1" 404 4368
+INFO 2025-07-13 01:41:41,287 autoreload 16276 13496 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\urls.py changed, reloading.
+INFO 2025-07-13 01:41:42,520 autoreload 6548 10488 Watching for file changes with StatReloader
+INFO 2025-07-13 01:41:49,970 basehttp 6548 8900 "GET /tasks/ HTTP/1.1" 200 15178
+WARNING 2025-07-13 01:42:09,288 log 6548 8900 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:42:09,288 basehttp 6548 8900 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+INFO 2025-07-13 01:43:35,165 basehttp 6548 8900 "GET /tasks/9 HTTP/1.1" 301 0
+ERROR 2025-07-13 01:43:36,523 log 6548 9524 Internal Server Error: /tasks/9/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 723, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 655, in get_context
+    raw_data_put_form = self.get_raw_data_form(data, view, 'PUT', request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 540, in get_raw_data_form
+    if not self.show_form_for_method(view, method, request, instance):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 432, in show_form_for_method
+    view.check_object_permissions(request, obj)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 345, in check_object_permissions
+    if not permission.has_object_permission(request, self, obj):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\perminssions.py", line 51, in has_object_permission
+    if object.assigned_to == request.user:
+       ^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'object' has no attribute 'assigned_to'
+ERROR 2025-07-13 01:43:36,539 basehttp 6548 9524 "GET /tasks/9/ HTTP/1.1" 500 115969
+INFO 2025-07-13 01:46:02,326 autoreload 6548 10488 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\views.py changed, reloading.
+INFO 2025-07-13 01:46:03,538 autoreload 1468 11100 Watching for file changes with StatReloader
+WARNING 2025-07-13 01:47:00,139 log 1468 2656 Forbidden: /tasks/9/update_status/
+WARNING 2025-07-13 01:47:00,139 basehttp 1468 2656 "GET /tasks/9/update_status/ HTTP/1.1" 403 4054
+WARNING 2025-07-13 01:48:54,857 log 1468 2656 Not Found: /tasks/update_status/
+WARNING 2025-07-13 01:48:54,865 basehttp 1468 2656 "GET /tasks/update_status/ HTTP/1.1" 404 17077
+WARNING 2025-07-13 01:49:08,222 log 1468 2656 Forbidden: /tasks/update_status/update_status/
+WARNING 2025-07-13 01:49:08,222 basehttp 1468 2656 "GET /tasks/update_status/update_status/ HTTP/1.1" 403 4090
+INFO 2025-07-13 01:49:26,930 basehttp 1468 2656 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:49:32,305 basehttp 1468 2656 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:49:34,213 basehttp 1468 2656 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:49:46,608 basehttp 1468 2656 "GET /tasks/?format=api HTTP/1.1" 200 15612
+INFO 2025-07-13 01:51:02,443 basehttp 1468 2656 "GET /tasks/pk=9/update_status HTTP/1.1" 301 0
+WARNING 2025-07-13 01:51:02,585 log 1468 10228 Forbidden: /tasks/pk=9/update_status/
+WARNING 2025-07-13 01:51:02,585 basehttp 1468 10228 "GET /tasks/pk%3D9/update_status/ HTTP/1.1" 403 4065
+WARNING 2025-07-13 01:51:25,589 log 1468 10228 Not Found: /tasks/pk=9/
+WARNING 2025-07-13 01:51:25,589 basehttp 1468 10228 "GET /tasks/pk=9/ HTTP/1.1" 404 17017
+WARNING 2025-07-13 01:51:39,947 log 1468 10228 Forbidden: /tasks/pk=9/update_status/
+WARNING 2025-07-13 01:51:39,947 basehttp 1468 10228 "GET /tasks/pk=9/update_status/ HTTP/1.1" 403 4065
+WARNING 2025-07-13 01:51:46,226 log 1468 10228 Not Found: /tasks/pk=9/
+WARNING 2025-07-13 01:51:46,229 basehttp 1468 10228 "GET /tasks/pk=9/ HTTP/1.1" 404 17017
+WARNING 2025-07-13 01:52:02,358 log 1468 10228 Forbidden: /tasks/pk=9/update_status/
+WARNING 2025-07-13 01:52:02,360 basehttp 1468 10228 "GET /tasks/pk=9/update_status/ HTTP/1.1" 403 4065
+INFO 2025-07-13 01:52:12,751 basehttp 1468 10228 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:52:18,701 basehttp 1468 10228 "GET /tasks/2 HTTP/1.1" 301 0
+ERROR 2025-07-13 01:52:18,825 log 1468 14296 Internal Server Error: /tasks/2/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 723, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 655, in get_context
+    raw_data_put_form = self.get_raw_data_form(data, view, 'PUT', request)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 540, in get_raw_data_form
+    if not self.show_form_for_method(view, method, request, instance):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\renderers.py", line 432, in show_form_for_method
+    view.check_object_permissions(request, obj)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 345, in check_object_permissions
+    if not permission.has_object_permission(request, self, obj):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\perminssions.py", line 51, in has_object_permission
+    if object.assigned_to == request.user:
+       ^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'object' has no attribute 'assigned_to'
+ERROR 2025-07-13 01:52:18,839 basehttp 1468 14296 "GET /tasks/2/ HTTP/1.1" 500 116082
+INFO 2025-07-13 01:53:30,125 autoreload 1468 11100 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\perminssions.py changed, reloading.
+INFO 2025-07-13 01:53:31,174 autoreload 7156 13992 Watching for file changes with StatReloader
+INFO 2025-07-13 01:53:42,595 basehttp 7156 5696 "GET /tasks/2/ HTTP/1.1" 200 18368
+INFO 2025-07-13 01:55:04,872 basehttp 7156 5696 "PUT /tasks/2/ HTTP/1.1" 200 18368
+WARNING 2025-07-13 01:56:18,789 log 7156 5696 Forbidden: /tasks/2/update_status/
+WARNING 2025-07-13 01:56:18,795 basehttp 7156 5696 "GET /tasks/2/update_status/ HTTP/1.1" 403 4054
+INFO 2025-07-13 01:56:32,606 basehttp 7156 5696 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 01:56:50,644 basehttp 7156 5696 "GET /tasks/2/ HTTP/1.1" 200 18368
+WARNING 2025-07-13 01:57:46,113 log 7156 5696 Bad Request: /tasks/2/
+WARNING 2025-07-13 01:57:46,115 basehttp 7156 5696 "PUT /tasks/2/ HTTP/1.1" 400 17908
+WARNING 2025-07-13 01:58:16,729 log 7156 5696 Bad Request: /tasks/2/
+WARNING 2025-07-13 01:58:16,729 basehttp 7156 5696 "PUT /tasks/2/ HTTP/1.1" 400 17908
+INFO 2025-07-13 02:01:04,409 autoreload 12220 17060 Watching for file changes with StatReloader
+INFO 2025-07-13 02:02:10,255 basehttp 12220 12400 "GET / HTTP/1.1" 200 5300
+WARNING 2025-07-13 02:03:04,756 log 12220 12400 Not Found: /favicon.ico
+WARNING 2025-07-13 02:03:04,758 basehttp 12220 12400 "GET /favicon.ico HTTP/1.1" 404 4186
+ERROR 2025-07-13 02:03:17,597 log 12220 16624 Internal Server Error: /tasks/
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 187, in _get_session
+    return self._session_cache
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\request.py", line 227, in user
+    self._authenticate()
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\rest_framework\authentication.py", line 127, in authenticate
+    if not user or not user.is_active:
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\utils\functional.py", line 266, in inner
+    self._setup()
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\utils\functional.py", line 419, in _setup
+    self._wrapped = self._setupfunc()
+                    ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\middleware.py", line 25, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+                                            ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\middleware.py", line 11, in get_user
+    request._cached_user = auth.get_user(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\__init__.py", line 191, in get_user
+    user_id = _get_user_session_key(request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\auth\__init__.py", line 60, in _get_user_session_key
+    return get_user_model()._meta.pk.to_python(request.session[SESSION_KEY])
+                                               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 53, in __getitem__
+    return self._session[key]
+           ^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 192, in _get_session
+    self._session_cache = self.load()
+                          ^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 42, in load
+    s = self._get_session_from_db()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\contrib\sessions\backends\db.py", line 32, in _get_session_from_db
+    return self.model.objects.get(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\Taskflow - Task managment system\taskflow_venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+ERROR 2025-07-13 02:03:17,621 basehttp 12220 16624 "GET /tasks/ HTTP/1.1" 500 234707
+INFO 2025-07-13 02:07:19,601 autoreload 3104 15248 Watching for file changes with StatReloader
+INFO 2025-07-13 02:08:54,572 basehttp 3104 13744 "GET / HTTP/1.1" 200 5300
+WARNING 2025-07-13 02:08:54,889 log 3104 13744 Not Found: /favicon.ico
+WARNING 2025-07-13 02:08:54,889 basehttp 3104 13744 "GET /favicon.ico HTTP/1.1" 404 4186
+INFO 2025-07-13 02:09:04,419 basehttp 3104 13744 "GET /tasks/ HTTP/1.1" 200 15178
+INFO 2025-07-13 02:09:25,957 basehttp 3104 13744 "GET /tasks/9/ HTTP/1.1" 200 18321
+INFO 2025-07-13 02:10:12,049 basehttp 3104 13744 "PUT /tasks/9/ HTTP/1.1" 200 18321
+INFO 2025-07-13 02:10:53,023 basehttp 3104 13744 "PUT /tasks/9/ HTTP/1.1" 200 18321
+WARNING 2025-07-13 02:11:11,977 log 3104 13744 Bad Request: /tasks/9/
+WARNING 2025-07-13 02:11:11,977 basehttp 3104 13744 "PUT /tasks/9/ HTTP/1.1" 400 17869
+INFO 2025-07-13 02:11:25,288 basehttp 3104 13744 "PUT /tasks/9/ HTTP/1.1" 200 18321
+INFO 2025-07-13 02:11:52,050 basehttp 3104 13744 "PUT /tasks/9/ HTTP/1.1" 200 18335
+WARNING 2025-07-13 02:12:42,361 log 3104 13744 Not Found: /tasks/10/
+WARNING 2025-07-13 02:12:42,363 basehttp 3104 13744 "GET /tasks/10/ HTTP/1.1" 404 16989
+WARNING 2025-07-13 02:13:12,328 log 3104 13744 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-13 02:13:12,332 basehttp 3104 13744 "GET /api/auth/logout/ HTTP/1.1" 405 5858
+INFO 2025-07-13 02:13:44,563 basehttp 3104 13744 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+INFO 2025-07-13 02:13:44,663 basehttp 3104 3728 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+INFO 2025-07-14 13:06:12,036 autoreload 7240 15572 Watching for file changes with StatReloader
+WARNING 2025-07-14 13:06:50,871 log 7240 11656 Forbidden: /
+WARNING 2025-07-14 13:06:50,871 basehttp 7240 11656 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-14 13:06:51,129 basehttp 7240 12260 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,393 basehttp 7240 12260 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,393 basehttp 7240 14056 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,408 basehttp 7240 3388 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,408 basehttp 7240 12008 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,441 basehttp 7240 10608 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,443 basehttp 7240 9892 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,457 basehttp 7240 14056 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,457 basehttp 7240 12260 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:51,464 basehttp 7240 3388 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-14 13:06:57,963 basehttp 7240 3388 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-07-14 13:06:59,242 log 7240 3388 Not Found: /favicon.ico
+WARNING 2025-07-14 13:06:59,242 basehttp 7240 3388 "GET /favicon.ico HTTP/1.1" 404 4186
+WARNING 2025-07-14 13:07:22,371 log 7240 2400 Method Not Allowed: /api/auth/login/
+WARNING 2025-07-14 13:07:22,371 basehttp 7240 2400 "GET /api/auth/login/ HTTP/1.1" 405 5808
+WARNING 2025-07-14 13:09:48,844 log 7240 5484 Bad Request: /api/auth/login/
+WARNING 2025-07-14 13:09:48,853 basehttp 7240 5484 "POST /api/auth/login/ HTTP/1.1" 400 5845
+INFO 2025-07-14 13:10:28,878 basehttp 7240 5484 "POST /api/auth/login/ HTTP/1.1" 200 6256
+INFO 2025-07-14 13:10:42,810 basehttp 7240 5484 "GET /api/projects/ HTTP/1.1" 200 21554
+INFO 2025-07-14 13:10:42,971 basehttp 7240 5484 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+INFO 2025-07-14 13:17:17,081 basehttp 7240 7440 "GET /api/tasks/ HTTP/1.1" 200 5550
+INFO 2025-07-14 13:17:20,850 basehttp 7240 7440 "GET /tasks/ HTTP/1.1" 200 26197
+WARNING 2025-07-14 13:18:26,824 log 7240 7440 Method Not Allowed: /api/auth/logout/
+WARNING 2025-07-14 13:18:26,828 basehttp 7240 7440 "GET /api/auth/logout/ HTTP/1.1" 405 5858
+INFO 2025-07-14 13:18:33,647 basehttp 7240 7440 "POST /api/auth/logout/ HTTP/1.1" 200 3888
+INFO 2025-07-14 16:28:37,683 autoreload 16464 4940 Watching for file changes with StatReloader
+WARNING 2025-07-14 16:30:16,336 log 16464 13260 Forbidden: /
+WARNING 2025-07-14 16:30:16,336 basehttp 16464 13260 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:30:40,465 log 16464 13260 Not Found: /favicon.ico
+WARNING 2025-07-14 16:30:40,465 basehttp 16464 13260 "GET /favicon.ico HTTP/1.1" 404 4186
+WARNING 2025-07-14 16:31:09,815 log 16464 13260 Forbidden: /
+WARNING 2025-07-14 16:31:09,815 basehttp 16464 13260 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:31:41,037 log 16464 13260 Forbidden: /
+WARNING 2025-07-14 16:31:41,037 basehttp 16464 13260 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:31:41,976 log 16464 13260 Forbidden: /
+WARNING 2025-07-14 16:31:41,981 basehttp 16464 13260 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:31:42,141 log 16464 13260 Forbidden: /
+WARNING 2025-07-14 16:31:42,141 basehttp 16464 13260 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:31:42,367 log 16464 13260 Forbidden: /
+WARNING 2025-07-14 16:31:42,375 basehttp 16464 13260 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-14 16:35:39,741 autoreload 16464 4940 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\views.py changed, reloading.
+INFO 2025-07-14 16:35:41,715 autoreload 16732 16944 Watching for file changes with StatReloader
+WARNING 2025-07-14 16:36:03,480 log 16732 14592 Forbidden: /
+WARNING 2025-07-14 16:36:03,481 basehttp 16732 14592 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:36:04,555 log 16732 14592 Forbidden: /
+WARNING 2025-07-14 16:36:04,555 basehttp 16732 14592 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:36:05,208 log 16732 14592 Forbidden: /
+WARNING 2025-07-14 16:36:05,208 basehttp 16732 14592 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:36:05,404 log 16732 14592 Forbidden: /
+WARNING 2025-07-14 16:36:05,405 basehttp 16732 14592 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-14 16:38:56,260 autoreload 16732 16944 D:\Django Projects\Taskflow - Task managment system\taskflow\tasks\views.py changed, reloading.
+INFO 2025-07-14 16:38:57,511 autoreload 1308 18268 Watching for file changes with StatReloader
+WARNING 2025-07-14 16:39:01,868 log 1308 16228 Forbidden: /
+WARNING 2025-07-14 16:39:01,868 basehttp 1308 16228 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:39:03,707 log 1308 16228 Forbidden: /
+WARNING 2025-07-14 16:39:03,707 basehttp 1308 16228 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:39:04,703 log 1308 16228 Forbidden: /
+WARNING 2025-07-14 16:39:04,703 basehttp 1308 16228 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:39:04,868 log 1308 16228 Forbidden: /
+WARNING 2025-07-14 16:39:04,868 basehttp 1308 16228 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:39:05,077 log 1308 16228 Forbidden: /
+WARNING 2025-07-14 16:39:05,077 basehttp 1308 16228 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:40:48,135 log 1308 17460 Forbidden: /
+WARNING 2025-07-14 16:40:48,136 basehttp 1308 17460 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:40:49,015 log 1308 17460 Forbidden: /
+WARNING 2025-07-14 16:40:49,017 basehttp 1308 17460 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:06,563 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:06,569 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:07,421 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:07,429 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:07,564 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:07,564 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:07,749 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:07,752 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:07,935 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:07,935 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:08,093 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:08,093 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:08,223 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:08,224 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:45:08,460 log 1308 18856 Forbidden: /
+WARNING 2025-07-14 16:45:08,471 basehttp 1308 18856 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-14 16:56:27,351 autoreload 1308 18268 D:\Django Projects\Taskflow - Task managment system\taskflow\taskflow\urls.py changed, reloading.
+INFO 2025-07-14 16:56:59,951 autoreload 15284 15100 Watching for file changes with StatReloader
+WARNING 2025-07-14 16:58:09,400 log 15284 20916 Forbidden: /
+WARNING 2025-07-14 16:58:09,400 basehttp 15284 20916 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:58:12,245 log 15284 20916 Forbidden: /
+WARNING 2025-07-14 16:58:12,245 basehttp 15284 20916 "GET / HTTP/1.1" 403 4896
+WARNING 2025-07-14 16:58:19,324 log 15284 20916 Not Found: /favicon.ico
+WARNING 2025-07-14 16:58:19,324 basehttp 15284 20916 "GET /favicon.ico HTTP/1.1" 404 4186
+WARNING 2025-07-14 16:58:19,339 log 15284 20916 Not Found: /favicon.ico
+WARNING 2025-07-14 16:58:19,339 basehttp 15284 20916 "GET /favicon.ico HTTP/1.1" 404 4186
+WARNING 2025-07-14 16:59:20,067 log 15284 21268 Forbidden: /
+WARNING 2025-07-14 16:59:20,067 basehttp 15284 21268 "GET / HTTP/1.1" 403 4896
+INFO 2025-07-16 12:38:52,615 autoreload 16628 11420 Watching for file changes with StatReloader
+INFO 2025-07-16 12:38:58,349 autoreload 16628 11420 D:\Django Projects\Taskflow - Task managment system\taskflow\taskflow\urls.py changed, reloading.
+INFO 2025-07-16 12:38:59,128 autoreload 3480 10104 Watching for file changes with StatReloader
+WARNING 2025-07-16 12:39:42,782 log 3480 14504 Method Not Allowed: /
+WARNING 2025-07-16 12:39:42,782 basehttp 3480 14504 "GET / HTTP/1.1" 405 5558
+INFO 2025-07-16 12:39:42,863 basehttp 3480 2144 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:42,863 basehttp 3480 13992 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:42,940 basehttp 3480 2144 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:43,050 basehttp 3480 9348 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:43,113 basehttp 3480 13992 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:43,348 basehttp 3480 9348 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:43,348 basehttp 3480 2144 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:43,465 basehttp 3480 17188 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:43,476 basehttp 3480 16860 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:43,476 basehttp 3480 1884 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-07-16 12:39:54,939 basehttp 3480 1884 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-07-16 12:39:57,682 log 3480 1884 Not Found: /favicon.ico
+WARNING 2025-07-16 12:39:57,682 basehttp 3480 1884 "GET /favicon.ico HTTP/1.1" 404 3235
